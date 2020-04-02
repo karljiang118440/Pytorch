@@ -4,7 +4,7 @@ import torch.nn as nn
 from torch.autograd import Variable
 
 
-__all__ = ['vgg']
+__all__ = ['mobilenetv1']
 
 defaultcfg = {
     11 : [64, 'M', 128, 'M', 256, 256, 'M', 512, 512, 'M', 512, 512],
@@ -13,9 +13,9 @@ defaultcfg = {
     19 : [64, 64, 'M', 128, 128, 'M', 256, 256, 256, 256, 'M', 512, 512, 512, 512, 'M', 512, 512, 512, 512],
 }
 
-class vgg(nn.Module):
+class mobilenetv1(nn.Module):
     def __init__(self, dataset='cifar10', depth=19, init_weights=True, cfg=None):
-        super(vgg, self).__init__()
+        super(mobilenetv1, self).__init__()
         if cfg is None:
             cfg = defaultcfg[depth]
 
@@ -66,7 +66,7 @@ class vgg(nn.Module):
                 m.bias.data.zero_()
 
 if __name__ == '__main__':
-    net = vgg()
+    net = mobilenetv1()
     x = Variable(torch.FloatTensor(16, 3, 40, 40))
     y = net(x)
     print(y.data.shape)
