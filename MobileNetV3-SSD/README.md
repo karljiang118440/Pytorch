@@ -109,7 +109,7 @@ python open_images_downloader.py --root /media/jcq/Doc/DL_data/open_images --cla
 /home/jcq/.conda/envs/PyTorch/bin/python train_ssd.py --dataset_type open_images --datasets /media/jcq/Doc/DL_data/open_images --net mb3-ssd-lite  --scheduler cosine --lr 0.01 --t_max 100 --validation_epochs 5 --num_epochs 100 --base_net_lr 0.001  --batch_size 16
 
 
-/home/jcq/.conda/envs/PyTorch/bin/python prune_alexnet.py --trained_model ./models/mb3-ssd-lite-Epoch-50-Loss-2.854336971821992.pth --dataset /media/jcq/Doc/DL_data/open_images --validation_dataset /media/jcq/Doc/DL_data/open_images --prune_conv
+/home/jcq/.conda/envs/PyTorch/bin/python prune_mb3-ssd-lite.py --trained_model ./models/mb3-ssd-lite-Epoch-50-Loss-2.854336971821992.pth --dataset /media/jcq/Doc/DL_data/open_images --validation_dataset /media/jcq/Doc/DL_data/open_images --prune_conv
 
 
 
@@ -125,6 +125,30 @@ python open_images_downloader.py --root ./open_images --class_names "Car,Person"
 /home/jcq/.conda/envs/PyTorch/bin/python train_ssd.py --dataset_type open_images --datasets ./open_images --net mb3-ssd-lite  --scheduler cosine --lr 0.01 --t_max 100 --validation_epochs 3 --num_epochs 50 --base_net_lr 0.001  --batch_size 16
 
 
+
+## 1、测试结果
+
+2020-04-26 00:26:05,607 - root - INFO - Epoch: 49, Step: 20000, Average Loss: 3.6403, Average Regression Loss 1.5448, Average Classification Loss: 2.0955
+2020-04-26 00:27:07,021 - root - INFO - Epoch: 49, Step: 20100, Average Loss: 3.6859, Average Regression Loss 1.5652, Average Classification Loss: 2.1206
+2020-04-26 00:28:10,163 - root - INFO - Epoch: 49, Step: 20200, Average Loss: 3.6321, Average Regression Loss 1.4953, Average Classification Loss: 2.1368
+2020-04-26 00:29:10,715 - root - INFO - Epoch: 49, Step: 20300, Average Loss: 3.6128, Average Regression Loss 1.4956, Average Classification Loss: 2.1172
+2020-04-26 00:30:10,984 - root - INFO - Epoch: 49, Step: 20400, Average Loss: 3.5781, Average Regression Loss 1.4675, Average Classification Loss: 2.1107
+2020-04-26 00:31:13,524 - root - INFO - Epoch: 49, Step: 20500, Average Loss: 3.5987, Average Regression Loss 1.4970, Average Classification Loss: 2.1017
+2020-04-26 00:45:24,771 - root - INFO - Epoch: 49, Validation Loss: 2.9867, Validation Regression Loss 1.0696, Validation Classification Loss: 1.9172
+2020-04-26 00:45:24,911 - root - INFO - Saved model models/mb3-ssd-lite-Epoch-49-Loss-2.9867476411975256.pth
+
+训练的结果：花费的时间太久，无法能够直接进行维护。
+
+
+
+
+
+
+
 **测试一张图片**
 
-/home/jcq/.conda/envs/PyTorch/bin/python run_ssd_example.py mb3-ssd-lite models/mb3-ssd-lite-Epoch-0-Loss-3.882783318864237.pth models/open-images-model-labels.txt test.jpg
+
+/home/jcq/.conda/envs/PyTorch/bin/python run_ssd_example.py mb3-ssd-lite models/mb3-ssd-lite-Epoch-49-Loss-2.9867476411975256.pth models/open-images-model-labels.txt test.jpg
+
+
+## 1、error
