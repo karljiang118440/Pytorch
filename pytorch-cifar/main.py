@@ -79,6 +79,9 @@ if device == 'cuda':
     cudnn.benchmark = True
 
 
+# dummy_input = torch.randn(1, 3, 224, 224) 
+# torch.onnx.export(GoogLeNet(), dummy_input, "alexnet.onnx") 
+
 if args.resume:
     # Load checkpoint.
     print('==> Resuming from checkpoint..')
@@ -91,6 +94,8 @@ if args.resume:
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(net.parameters(), lr=args.lr,
                       momentum=0.9, weight_decay=5e-4)
+
+
 
 
 # Training
@@ -115,6 +120,7 @@ def train(epoch):
 
         progress_bar(batch_idx, len(trainloader), 'Loss: %.3f | Acc: %.3f%% (%d/%d)'
                      % (train_loss/(batch_idx+1), 100.*correct/total, correct, total))
+
 
 
 def test(epoch):
@@ -150,8 +156,9 @@ def test(epoch):
             os.mkdir('checkpoint')
         torch.save(state, './checkpoint/ckpt.pth')
         #torch_out = torch.onnx._export('./checkpoint/ckpt.pth','outputs',"test.onnx",export_params = True)
-        torch_out = torch.onnx._export(net,outputs,"test.onnx",export_params = True)
-        #torch.onnx.export(net, inputs, "alexnet.onnx")  
+        #torch_out = torch.onnx._export(net,outputs,"test.onnx",export_params = True)
+        torch.onnx.export(GoogLeNet().cuda(), inputs, "alexnet.onnx")
+
         best_acc = acc
 
 
