@@ -35,3 +35,16 @@ get_map文件克隆自https://github.com/Cartucho/mAP
 ### Reference
 https://github.com/pierluigiferrari/ssd_keras  
 https://github.com/kuhung/SSD_keras  
+
+
+
+## SSD：Single-Shot MultiBox Detector 修改检测汽车目标
+
+1、修正 voc_classes.txt 中目标
+
+    car
+person
+bicycle
+bus
+motorbike
+train
