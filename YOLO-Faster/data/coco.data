@@ -1,0 +1,7 @@
+classes= 80
+train  = /media/jcq/Backup/darknet_data/CoCoImages/coco/train.txt
+valid  = /media/jcq/Backup/darknet_data/CoCoImages/coco/val.txt
+names = data/coco.names
+backup = /media/jcq/Backup/darknet_data/backup
+eval=coco
+
