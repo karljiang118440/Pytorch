@@ -1,7 +1,12 @@
 classes= 80
-train  = /media/jcq/Backup/darknet_data/CoCoImages/coco/train.txt
-valid  = /media/jcq/Backup/darknet_data/CoCoImages/coco/val.txt
+#train  = /media/jcq/Backup/darknet_data/CoCoImages/coco/train.txt
+#valid  = /media/jcq/Backup/darknet_data/CoCoImages/coco/val.txt
+
+
+train  = /media/jcq/Soft/Pytorch/YOLO/pytorch-YOLOv4/data/train.txt
+valid  = /media/jcq/Soft/Pytorch/YOLO/pytorch-YOLOv4/data/val.txt
+
 names = data/coco.names
-backup = /media/jcq/Backup/darknet_data/backup
+backup = /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/backup/yolov4-tiny/coco/20210106
 eval=coco
 
