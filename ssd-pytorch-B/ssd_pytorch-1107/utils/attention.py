@@ -47,3 +47,14 @@ class SEModule(nn.Module):
         return x*y.expand_as(x)
 
         
+
+class Upsample(nn.Module):
+    def __init__(self,size,scale_factor=None,mode = "nearest"):
+        super(Upsample,self).__init__()
+        self.size = size 
+        self.scale_factor =  scale_factor
+        self.mode = mode 
+
+    def forward(self,x):
+        x = F.interpolate(x,size= self.sieze,scale_factor= self.scale_factor,mode = self.mode )
+        return x
