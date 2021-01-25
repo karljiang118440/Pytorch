@@ -9,6 +9,7 @@ from nets.ssd_layers import L2Norm,PriorBox
 from nets.vgg import vgg as add_vgg
 
 from utils.config import USE_SE,USE_ECA
+from utils.attention import Upsample,SEModule,ECAModule
 
 
 class SSD(nn.Module):
@@ -29,24 +30,90 @@ class SSD(nn.Module):
             self.softmax = nn.Softmax(dim=-1)
             self.detect = Detect(num_classes, 0, 200, 0.01, 0.45)
 
-        self.DilationConv_128_128 = nn.Conv2d()
+
+
+
+        self.DilationConv_128_128 = nn.Conv2d(in_channels=128,out_channels=128,kernel_size=3,padding=2,
+                                              dilation=2,stride=2)
+        self.conv_512_256 = nn.Conv2d(in_channels=512,out_channels=256,kernel_size=1,stride=1)
+        self.upsample_1024_1024 = Upsample(38)
+        self.conv_1024_128 = nn.Conv2d(in_channels=1024,out_channels=128,kernel_size=1,stride=1)
+
+        self.DilationConv_512_256 = nn.Conv2d(in_channels= 512,out_channels= 256,kernel_size=3,padding=2,dilation=2,
+                                              stride=2)
+
+        self.conv_1024_512 = nn.Conv2d(in_channels=1024,out_channels=512,kernel_size=1,stride=1)
+
+        self.upsample_512_512 = Upsample(19)
+        self.conv_512_256_fc7 = nn.Conv2d(in_channels=512,out_channels=256,kernel_size=1,stride=1)
+
+        self.DilationConv_512_128_2 = nn.Conv2d(in_channels=512,out_channels=128,kernel_size=3,padding=2,
+                                                dilation=2,stride=2)
+
+        self.conv_512_256_2 = nn.Conv2d(in_channels=512,out_channels=256,kernel_size=1,stride=1)
+
+        self.upsample_256_256_2 = Upsample(10)
+        self.conv_256_128_2 = nn.Conv2d(in_channels=256,out_channels=128,kernel_size=1,stride=1)
+
+
+        self.smooth = nn.Conv2d(512,512,kernel_size=3,padding=1,stride=1)
+        self.smooth2 = nn.Conv2d(1024,1024,kernel_size=3,padding=1,stride=1)
+
+        self.bn = nn.BatchNorm2d(128)
+        self.bn1 = nn.BatchNorm2d(256)
+
+
+        if USE_SE:
+            self.SE1 = SEModule(512)
+            self.SE2 = SEModule(512)
+            self.SE3 = SEModule(512)
+            self.SE4 = SEModule(256)
+            self.SE5 = SEModule(256)
+            self.SE6 = SEModule(256)
+
+        if USE_ECA:
+            self.ECA1 = ECAModule(512)
+            self.ECA2 = ECAModule(1024)
+            self.ECA3 = ECAModule(512)
+            self.ECA4 = ECAModule(256)
+
+
+
             
     def forward(self, x):
         sources = list()
         loc = list()
         conf = list()
 
+
+
+        for k in range(10):
+            x = self.vgg[k](x)
+        sources.append(x)
+
         # 获得conv4_3的内容
-        for k in range(23):
+        for k in range(10,23):
             x = self.vgg[k](x)
 
         s = self.L2Norm(x)
         sources.append(s)
 
         # 获得fc7的内容
-        for k in range(23, len(self.vgg)):
+        # for k in range(23, len(self.vgg)):
+        #     x = self.vgg[k](x)
+        # sources.append(x)
+
+        for k in range(23, 30):
+            x = self.vgg[k](x)
+
+        s = self.L2Norm(x)    
+        sources.append(s)
+
+
+        for k in range(30,len(self.vgg)):
             x = self.vgg[k](x)
         sources.append(x)
+
 
         # 获得后面的内容
         for k, v in enumerate(self.extras):
@@ -54,12 +121,74 @@ class SSD(nn.Module):
             if k % 2 == 1:
                 sources.append(x)
 
+        sources_final = list()
+        sources_final1 = list()
+
+        if USE_ECA:
+            sources_final.append(self.ECA4(sources[5]))
+        else:
+            sources_final.append(sources[5])
+
+
+        conv8_fp1 = torch.cat((F.relu(self.bn(self.DilationConv_512_128_2(sources[2])),inplace=True),
+                              F.relu(self.conv_512_256_2(sources[4]),inplace=True),
+                              F.relu(self.conv_256_128_2(self.upsample_256_256_2(sources[5])),inplace = True)),1)
+
+        conv8_fp = F.relu(self.smooth(conv8_fp1),inplace=True)
+
+        if USE_ECA:
+            sources_final.append(self.ECA3(conv8_fp))
+        else:
+            sources_final.append(conv8_fp)
+
+        # fc7_fp = torch.cat((F.relu(self.bn(self.DilationConv_512_256(sources[1])),inplace=True),
+        #                     F.relu(self.conv_1024_512(sources[3]),inplace=True),
+        #                     F.relu(self.conv512_256_fc7(self.upsample_512_512(sources[4])),inplace=True)),1)
+
+
+
+
+        # fc7_fp1 = torch.cat((F.relu(self.bn1(self.DilationConv_512_256(sources[1])),inplace=True),
+        #                     F.relu(self.conv_1024_512(sources[3]),inplace=True),
+        #                     F.relu(self.conv_512_256_fc7(self.upsample_512_512(sources[4])),inplace=True)),1)
+
+        fc7_fp1 = torch.cat((F.relu(self.bn1(self.DilationConv_512_256(sources[1])), inplace=True),
+                            F.relu(self.conv_1024_512(sources[3]), inplace=True),
+                            F.relu(self.conv_512_256_fc7(self.upsample_512_512(sources[4])), inplace=True)), 1)
+
+
+        fc7_fp = F.relu(self.smooth2(fc7_fp1),inplace=True)
+
+
+        if USE_ECA:
+            sources_final.append(self.ECA2(fc7_fp))
+        else:
+            sources_final.append(fc7_fp)
+
+
+
+        conv4_fp = torch.cat((F.relu(self.bn(self.DilationConv_128_128(sources[0])),inplace=True),
+                             F.relu(self.conv_512_256(sources[1]),inplace=True),
+                             F.relu(self.conv_1024_128(self.upsample_1024_1024(sources[3])),inplace=True)),1)
+
+        conv4_fp = F.relu(self.smooth(conv4_fp),inplace=True)
+        if USE_ECA:
+            sources_final.append(self.ECA1(conv4_fp))
+        else:
+            sources_final.append(conv4_fp)
+
+
+
 
 
         # 添加回归层和分类层
-        for (x, l, c) in zip(sources, self.loc, self.conf):
-            loc.append(l(x).permute(0, 2, 3, 1).contiguous())
-            conf.append(c(x).permute(0, 2, 3, 1).contiguous())
+        # for (x, l, c) in zip(sources, self.loc, self.conf):
+        #     loc.append(l(x).permute(0, 2, 3, 1).contiguous())
+        #     conf.append(c(x).permute(0, 2, 3, 1).contiguous())
+
+        for (x,l,c) in zip(sources_final[::-1],self.loc,self.conf):
+            loc.append(l(x).permute(0,2,3,1).contiguous())
+            conf.append(c(x).permute(0,2,3,1).contiguous())
 
         # 进行resize
         loc = torch.cat([o.view(o.size(0), -1) for o in loc], 1)
