@@ -1,0 +1,2050 @@
+Region 94 Avg IOU: 0.757774, Class: 0.954868, Obj: 0.887047, No Obj: 0.000192, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.807581, Class: 0.954158, Obj: 0.747491, No Obj: 0.003987, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000018, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44847: 0.675979, 0.641577 avg, 0.001000 rate, 0.416050 seconds, 179388 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.776701, Class: 0.978366, Obj: 0.791268, No Obj: 0.004430, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.730656, Class: 0.992116, Obj: 0.800662, No Obj: 0.000282, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.801015, Class: 0.962710, Obj: 0.925503, No Obj: 0.003433, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44848: 0.411731, 0.618592 avg, 0.001000 rate, 0.414647 seconds, 179392 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.816582, Class: 0.901048, Obj: 0.754138, No Obj: 0.005391, .5R: 1.000000, .75R: 0.888889,  count: 9
+Region 94 Avg IOU: 0.790149, Class: 0.998603, Obj: 0.842104, No Obj: 0.000687, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.805376, Class: 0.994474, Obj: 0.817171, No Obj: 0.002539, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44849: 0.610808, 0.617814 avg, 0.001000 rate, 0.415968 seconds, 179396 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.826114, Class: 0.670644, Obj: 0.816282, No Obj: 0.003270, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.824409, Class: 0.999052, Obj: 0.313102, No Obj: 0.000155, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.767235, Class: 0.998850, Obj: 0.964378, No Obj: 0.001845, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44850: 0.621309, 0.618163 avg, 0.001000 rate, 0.414144 seconds, 179400 images
+Resizing
+608
+Loaded: 0.000485 seconds
+Region 82 Avg IOU: 0.878255, Class: 0.993833, Obj: 0.891382, No Obj: 0.004727, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.632998, Class: 0.995043, Obj: 0.849159, No Obj: 0.000507, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44851: 0.397973, 0.596144 avg, 0.001000 rate, 0.296236 seconds, 179404 images
+Loaded: 0.000050 seconds
+Region 82 Avg IOU: 0.708447, Class: 0.996917, Obj: 0.599965, No Obj: 0.002085, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000175, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.826502, Class: 0.984538, Obj: 0.788668, No Obj: 0.003401, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.729615, Class: 0.909920, Obj: 0.841336, No Obj: 0.000247, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44852: 0.577530, 0.594283 avg, 0.001000 rate, 0.413004 seconds, 179408 images
+Loaded: 0.000412 seconds
+Region 82 Avg IOU: 0.860263, Class: 0.996598, Obj: 0.820797, No Obj: 0.005381, .5R: 1.000000, .75R: 1.000000,  count: 7
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.852480, Class: 0.967018, Obj: 0.986702, No Obj: 0.002859, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.798584, Class: 0.999565, Obj: 0.958580, No Obj: 0.000368, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44853: 0.314046, 0.566259 avg, 0.001000 rate, 0.415816 seconds, 179412 images
+Loaded: 0.000051 seconds
+Region 82 Avg IOU: 0.858544, Class: 0.851707, Obj: 0.352655, No Obj: 0.001572, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000079, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.698157, Class: 0.998666, Obj: 0.929708, No Obj: 0.002499, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.731921, Class: 0.999101, Obj: 0.898874, No Obj: 0.000335, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44854: 0.548257, 0.564459 avg, 0.001000 rate, 0.415020 seconds, 179416 images
+Loaded: 0.000040 seconds
+Region 82 Avg IOU: 0.798165, Class: 0.988390, Obj: 0.652781, No Obj: 0.004661, .5R: 1.000000, .75R: 0.571429,  count: 7
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.876670, Class: 0.986688, Obj: 0.361659, No Obj: 0.003012, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.551872, Class: 0.943501, Obj: 0.410660, No Obj: 0.000139, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44855: 0.681213, 0.576134 avg, 0.001000 rate, 0.415780 seconds, 179420 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.799187, Class: 0.965716, Obj: 0.774753, No Obj: 0.003147, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.867466, Class: 0.526830, Obj: 0.347461, No Obj: 0.002156, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.743858, Class: 0.997180, Obj: 0.582767, No Obj: 0.001593, .5R: 1.000000, .75R: 0.444444,  count: 9
+Region 106 Avg IOU: 0.684502, Class: 0.995532, Obj: 0.518161, No Obj: 0.000155, .5R: 1.000000, .75R: 0.333333,  count: 3
+44856: 1.262308, 0.644752 avg, 0.001000 rate, 0.419795 seconds, 179424 images
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.704768, Class: 0.888416, Obj: 0.410550, No Obj: 0.002982, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.861496, Class: 0.999514, Obj: 0.568436, No Obj: 0.002111, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.746871, Class: 0.984494, Obj: 0.464937, No Obj: 0.000625, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44857: 0.878365, 0.668113 avg, 0.001000 rate, 0.414162 seconds, 179428 images
+Loaded: 0.000147 seconds
+Region 82 Avg IOU: 0.785876, Class: 0.992327, Obj: 0.480039, No Obj: 0.002169, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.820686, Class: 0.999979, Obj: 0.974096, No Obj: 0.000178, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.811430, Class: 0.673282, Obj: 0.766112, No Obj: 0.002631, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000035, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44858: 0.573108, 0.658612 avg, 0.001000 rate, 0.414318 seconds, 179432 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.799619, Class: 0.993247, Obj: 0.943377, No Obj: 0.003719, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.733790, Class: 0.980587, Obj: 0.888209, No Obj: 0.001345, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44859: 0.247107, 0.617462 avg, 0.001000 rate, 0.415313 seconds, 179436 images
+Loaded: 0.000054 seconds
+Region 82 Avg IOU: 0.807848, Class: 0.997240, Obj: 0.742872, No Obj: 0.005476, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.775816, Class: 0.999355, Obj: 0.817000, No Obj: 0.000136, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.813670, Class: 0.990561, Obj: 0.943798, No Obj: 0.002733, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.798363, Class: 0.999780, Obj: 0.913236, No Obj: 0.000173, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+44860: 0.266586, 0.582374 avg, 0.001000 rate, 0.414026 seconds, 179440 images
+Resizing
+384
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.741627, Class: 0.981359, Obj: 0.902590, No Obj: 0.008773, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.647821, Class: 0.934138, Obj: 0.124734, No Obj: 0.000116, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.704361, Class: 0.993093, Obj: 0.904661, No Obj: 0.008235, .5R: 1.000000, .75R: 0.200000,  count: 5
+Region 94 Avg IOU: 0.863288, Class: 0.999776, Obj: 0.512639, No Obj: 0.000443, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.902552, Class: 0.995756, Obj: 0.825926, No Obj: 0.000089, .5R: 1.000000, .75R: 1.000000,  count: 1
+44861: 0.628995, 0.587036 avg, 0.001000 rate, 0.125488 seconds, 179444 images
+Loaded: 0.000025 seconds
+Region 82 Avg IOU: 0.831926, Class: 0.996367, Obj: 0.975142, No Obj: 0.003917, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.760044, Class: 0.998247, Obj: 0.885746, No Obj: 0.006485, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44862: 0.161613, 0.544494 avg, 0.001000 rate, 0.178360 seconds, 179448 images
+Loaded: 0.000504 seconds
+Region 82 Avg IOU: 0.789262, Class: 0.938729, Obj: 0.915245, No Obj: 0.002863, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.510263, Class: 0.978635, Obj: 0.879680, No Obj: 0.000340, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.661231, Class: 0.998793, Obj: 0.961144, No Obj: 0.003983, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44863: 0.245776, 0.514622 avg, 0.001000 rate, 0.177760 seconds, 179452 images
+Loaded: 0.000025 seconds
+Region 82 Avg IOU: 0.769994, Class: 0.990176, Obj: 0.569299, No Obj: 0.006647, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.682739, Class: 0.989041, Obj: 0.534439, No Obj: 0.002142, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: 0.408600, Class: 0.999147, Obj: 0.918831, No Obj: 0.000440, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.869771, Class: 0.836325, Obj: 0.958881, No Obj: 0.004424, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44864: 1.508305, 0.613990 avg, 0.001000 rate, 0.179652 seconds, 179456 images
+Loaded: 0.000405 seconds
+Region 82 Avg IOU: 0.635757, Class: 0.997258, Obj: 0.997181, No Obj: 0.001943, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.754489, Class: 0.995036, Obj: 0.934884, No Obj: 0.000913, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.786256, Class: 0.993612, Obj: 0.587537, No Obj: 0.000255, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 82 Avg IOU: 0.741096, Class: 0.998438, Obj: 0.896471, No Obj: 0.006478, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000079, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.726481, Class: 0.968996, Obj: 0.001832, No Obj: 0.000079, .5R: 1.000000, .75R: 0.000000,  count: 1
+44865: 0.530499, 0.605641 avg, 0.001000 rate, 0.179085 seconds, 179460 images
+Loaded: 0.000028 seconds
+Region 82 Avg IOU: 0.728858, Class: 0.993188, Obj: 0.862136, No Obj: 0.006063, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.679086, Class: 0.998446, Obj: 0.894293, No Obj: 0.001485, .5R: 0.666667, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.636513, Class: 0.999577, Obj: 0.987018, No Obj: 0.001369, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.707785, Class: 0.999755, Obj: 0.943167, No Obj: 0.000645, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44866: 0.515646, 0.596642 avg, 0.001000 rate, 0.180089 seconds, 179464 images
+Loaded: 0.000400 seconds
+Region 82 Avg IOU: 0.792360, Class: 0.909530, Obj: 0.645731, No Obj: 0.005165, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.751994, Class: 0.993691, Obj: 0.768530, No Obj: 0.000330, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 82 Avg IOU: 0.793160, Class: 0.935739, Obj: 0.951798, No Obj: 0.005268, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.811014, Class: 0.981936, Obj: 0.646681, No Obj: 0.001652, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 106 Avg IOU: 0.768032, Class: 0.990587, Obj: 0.839474, No Obj: 0.000387, .5R: 1.000000, .75R: 0.666667,  count: 3
+44867: 0.798561, 0.616834 avg, 0.001000 rate, 0.180800 seconds, 179468 images
+Loaded: 0.000026 seconds
+Region 82 Avg IOU: 0.735862, Class: 0.991854, Obj: 0.957948, No Obj: 0.005724, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000044, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.780180, Class: 0.996625, Obj: 0.809452, No Obj: 0.000380, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 82 Avg IOU: 0.715224, Class: 0.999863, Obj: 0.958891, No Obj: 0.006118, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.703483, Class: 0.999185, Obj: 0.654211, No Obj: 0.001137, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: 0.747335, Class: 0.995760, Obj: 0.183143, No Obj: 0.000071, .5R: 1.000000, .75R: 0.000000,  count: 1
+44868: 0.806596, 0.635810 avg, 0.001000 rate, 0.180036 seconds, 179472 images
+Loaded: 0.000030 seconds
+Region 82 Avg IOU: 0.730666, Class: 0.996078, Obj: 0.962609, No Obj: 0.002457, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.846431, Class: 0.999950, Obj: 0.895834, No Obj: 0.000308, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.835687, Class: 0.996036, Obj: 0.962586, No Obj: 0.003903, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.719709, Class: 0.999405, Obj: 0.653305, No Obj: 0.001131, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.623967, Class: 0.995772, Obj: 0.035356, No Obj: 0.000051, .5R: 1.000000, .75R: 0.000000,  count: 2
+44869: 0.620201, 0.634249 avg, 0.001000 rate, 0.179257 seconds, 179476 images
+Loaded: 0.000506 seconds
+Region 82 Avg IOU: 0.881961, Class: 0.995150, Obj: 0.994275, No Obj: 0.002809, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.771814, Class: 0.997481, Obj: 0.784661, No Obj: 0.000720, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.701332, Class: 0.996595, Obj: 0.655714, No Obj: 0.005816, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 94 Avg IOU: 0.726120, Class: 0.999210, Obj: 0.693735, No Obj: 0.000663, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan,  count: 0
+44870: 0.319508, 0.602775 avg, 0.001000 rate, 0.178208 seconds, 179480 images
+Resizing
+384
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.755621, Class: 0.986344, Obj: 0.996448, No Obj: 0.003831, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.716431, Class: 0.962397, Obj: 0.529488, No Obj: 0.000879, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000046, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.797874, Class: 0.953568, Obj: 0.515420, No Obj: 0.005370, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.719557, Class: 0.999733, Obj: 0.573112, No Obj: 0.001155, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.700022, Class: 0.980523, Obj: 0.124487, No Obj: 0.000033, .5R: 1.000000, .75R: 0.000000,  count: 1
+44871: 0.753738, 0.617871 avg, 0.001000 rate, 0.126161 seconds, 179484 images
+Loaded: 0.000035 seconds
+Region 82 Avg IOU: 0.847531, Class: 0.939094, Obj: 0.872066, No Obj: 0.004513, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000107, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.842616, Class: 0.996652, Obj: 0.631947, No Obj: 0.003692, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.784308, Class: 0.975130, Obj: 0.499772, No Obj: 0.003929, .5R: 1.000000, .75R: 0.769231,  count: 13
+Region 106 Avg IOU: 0.858987, Class: 0.999681, Obj: 0.227593, No Obj: 0.000038, .5R: 1.000000, .75R: 1.000000,  count: 1
+44872: 0.901538, 0.646238 avg, 0.001000 rate, 0.180945 seconds, 179488 images
+Loaded: 0.000027 seconds
+Region 82 Avg IOU: 0.791146, Class: 0.954194, Obj: 0.496522, No Obj: 0.003768, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.814682, Class: 0.997105, Obj: 0.015497, No Obj: 0.000591, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.874226, Class: 0.998996, Obj: 0.926641, No Obj: 0.006559, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.636519, Class: 0.631526, Obj: 0.016369, No Obj: 0.000086, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+44873: 0.615296, 0.643144 avg, 0.001000 rate, 0.178972 seconds, 179492 images
+Loaded: 0.000025 seconds
+Region 82 Avg IOU: 0.705484, Class: 0.999547, Obj: 0.673330, No Obj: 0.002486, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.714722, Class: 0.992620, Obj: 0.653414, No Obj: 0.000606, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000040, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.738469, Class: 0.991919, Obj: 0.487685, No Obj: 0.000705, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000026, .5R: -nan, .75R: -nan,  count: 0
+44874: 0.573771, 0.636206 avg, 0.001000 rate, 0.178533 seconds, 179496 images
+Loaded: 0.000022 seconds
+Region 82 Avg IOU: 0.742024, Class: 0.774558, Obj: 0.762014, No Obj: 0.002770, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.718433, Class: 0.993472, Obj: 0.112603, No Obj: 0.000836, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.767702, Class: 0.658529, Obj: 0.006039, No Obj: 0.000006, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 82 Avg IOU: 0.834711, Class: 0.993099, Obj: 0.956080, No Obj: 0.006036, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.808540, Class: 0.998962, Obj: 0.510136, No Obj: 0.000708, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: 0.568208, Class: 0.997726, Obj: 0.783402, No Obj: 0.000103, .5R: 1.000000, .75R: 0.000000,  count: 1
+44875: 1.173580, 0.689944 avg, 0.001000 rate, 0.180003 seconds, 179500 images
+Loaded: 0.000493 seconds
+Region 82 Avg IOU: 0.772353, Class: 0.989825, Obj: 0.741816, No Obj: 0.006895, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000150, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.796109, Class: 0.997881, Obj: 0.772648, No Obj: 0.007114, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000142, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan,  count: 0
+44876: 0.280059, 0.648955 avg, 0.001000 rate, 0.178383 seconds, 179504 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.748163, Class: 0.982144, Obj: 0.844733, No Obj: 0.004705, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.683548, Class: 0.995331, Obj: 0.265128, No Obj: 0.000632, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.872739, Class: 0.993562, Obj: 0.826196, No Obj: 0.006480, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000077, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.793650, Class: 0.986259, Obj: 0.229115, No Obj: 0.000036, .5R: 1.000000, .75R: 1.000000,  count: 1
+44877: 0.613791, 0.645439 avg, 0.001000 rate, 0.180579 seconds, 179508 images
+Loaded: 0.000580 seconds
+Region 82 Avg IOU: 0.765281, Class: 0.985604, Obj: 0.649677, No Obj: 0.006527, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.861231, Class: 0.979699, Obj: 0.961569, No Obj: 0.000296, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.806315, Class: 0.975274, Obj: 0.926403, No Obj: 0.007916, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44878: 0.217971, 0.602692 avg, 0.001000 rate, 0.178401 seconds, 179512 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.693045, Class: 0.981866, Obj: 0.785940, No Obj: 0.007053, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.694616, Class: 0.994964, Obj: 0.766141, No Obj: 0.003697, .5R: 0.800000, .75R: 0.500000,  count: 10
+Region 106 Avg IOU: 0.518138, Class: 0.997636, Obj: 0.188447, No Obj: 0.000082, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.786955, Class: 0.999415, Obj: 0.975157, No Obj: 0.006590, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000033, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44879: 1.074354, 0.649858 avg, 0.001000 rate, 0.181092 seconds, 179516 images
+Loaded: 0.000422 seconds
+Region 82 Avg IOU: 0.755672, Class: 0.982862, Obj: 0.687984, No Obj: 0.006107, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.781402, Class: 0.997923, Obj: 0.508325, No Obj: 0.001282, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.712454, Class: 0.889547, Obj: 0.542773, No Obj: 0.010774, .5R: 0.857143, .75R: 0.571429,  count: 7
+Region 94 Avg IOU: 0.791829, Class: 0.999112, Obj: 0.411743, No Obj: 0.001085, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: 0.719929, Class: 0.742677, Obj: 0.094289, No Obj: 0.000012, .5R: 1.000000, .75R: 0.000000,  count: 1
+44880: 1.356852, 0.720558 avg, 0.001000 rate, 0.180621 seconds, 179520 images
+Resizing
+576
+Loaded: 0.000507 seconds
+Region 82 Avg IOU: 0.744985, Class: 0.978500, Obj: 0.894249, No Obj: 0.003337, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.709898, Class: 0.994017, Obj: 0.615640, No Obj: 0.000366, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.812545, Class: 0.939388, Obj: 0.560680, No Obj: 0.003625, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44881: 0.612545, 0.709756 avg, 0.001000 rate, 0.274947 seconds, 179524 images
+Loaded: 0.000505 seconds
+Region 82 Avg IOU: 0.829654, Class: 0.999024, Obj: 0.878505, No Obj: 0.002490, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.750067, Class: 0.997601, Obj: 0.344800, No Obj: 0.000261, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.862891, Class: 0.999077, Obj: 0.591433, No Obj: 0.000056, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.828120, Class: 0.995184, Obj: 0.880210, No Obj: 0.003083, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44882: 0.378009, 0.676582 avg, 0.001000 rate, 0.382670 seconds, 179528 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.755988, Class: 0.844320, Obj: 0.797789, No Obj: 0.001339, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.733019, Class: 0.912848, Obj: 0.744924, No Obj: 0.000319, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.831615, Class: 0.995886, Obj: 0.598558, No Obj: 0.000023, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.853890, Class: 0.997863, Obj: 0.935916, No Obj: 0.006286, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.853788, Class: 0.982352, Obj: 0.415009, No Obj: 0.000376, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44883: 0.535428, 0.662466 avg, 0.001000 rate, 0.387209 seconds, 179532 images
+Loaded: 0.000648 seconds
+Region 82 Avg IOU: 0.858337, Class: 0.998724, Obj: 0.988719, No Obj: 0.005724, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.810340, Class: 0.999498, Obj: 0.764850, No Obj: 0.000573, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.790573, Class: 0.997778, Obj: 0.978557, No Obj: 0.001373, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44884: 0.231827, 0.619402 avg, 0.001000 rate, 0.384106 seconds, 179536 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.754390, Class: 0.990260, Obj: 0.669731, No Obj: 0.003878, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.704283, Class: 0.998235, Obj: 0.915951, No Obj: 0.003235, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.759093, Class: 0.999712, Obj: 0.444513, No Obj: 0.000500, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan,  count: 0
+44885: 0.972660, 0.654728 avg, 0.001000 rate, 0.384396 seconds, 179540 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.810550, Class: 0.984903, Obj: 0.736288, No Obj: 0.001556, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.812258, Class: 0.998804, Obj: 0.690593, No Obj: 0.001294, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.756944, Class: 0.953954, Obj: 0.365836, No Obj: 0.004425, .5R: 1.000000, .75R: 0.714286,  count: 7
+Region 94 Avg IOU: 0.731500, Class: 0.999089, Obj: 0.310863, No Obj: 0.000581, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44886: 1.589667, 0.748222 avg, 0.001000 rate, 0.388396 seconds, 179544 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.851015, Class: 0.993129, Obj: 0.971796, No Obj: 0.001431, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.741383, Class: 0.954574, Obj: 0.979041, No Obj: 0.000253, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.787356, Class: 0.997103, Obj: 0.757371, No Obj: 0.007461, .5R: 1.000000, .75R: 0.571429,  count: 7
+Region 94 Avg IOU: 0.834951, Class: 0.999829, Obj: 0.767763, No Obj: 0.000670, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan,  count: 0
+44887: 0.537795, 0.727179 avg, 0.001000 rate, 0.386524 seconds, 179548 images
+Loaded: 0.000434 seconds
+Region 82 Avg IOU: 0.820699, Class: 0.993331, Obj: 0.748838, No Obj: 0.009955, .5R: 1.000000, .75R: 0.800000,  count: 15
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000238, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.731849, Class: 0.997016, Obj: 0.981752, No Obj: 0.000691, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.731435, Class: 0.977913, Obj: 0.697805, No Obj: 0.000528, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.721409, Class: 0.960705, Obj: 0.545184, No Obj: 0.000079, .5R: 1.000000, .75R: 0.000000,  count: 2
+44888: 0.860348, 0.740496 avg, 0.001000 rate, 0.388407 seconds, 179552 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.803686, Class: 0.981339, Obj: 0.584224, No Obj: 0.002456, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.664247, Class: 0.998885, Obj: 0.279006, No Obj: 0.000561, .5R: 1.000000, .75R: 0.000000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.749907, Class: 0.992828, Obj: 0.544288, No Obj: 0.002915, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44889: 0.992960, 0.765743 avg, 0.001000 rate, 0.386541 seconds, 179556 images
+Loaded: 0.000038 seconds
+Region 82 Avg IOU: 0.850594, Class: 0.545245, Obj: 0.981946, No Obj: 0.001835, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.770181, Class: 0.993125, Obj: 0.362027, No Obj: 0.000312, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.813565, Class: 0.999686, Obj: 0.955224, No Obj: 0.005456, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: 0.736997, Class: 0.995035, Obj: 0.471128, No Obj: 0.000567, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44890: 0.575482, 0.746717 avg, 0.001000 rate, 0.385585 seconds, 179560 images
+Resizing
+544
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.836465, Class: 0.975157, Obj: 0.831098, No Obj: 0.005205, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000072, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.857514, Class: 0.920143, Obj: 0.984695, No Obj: 0.002321, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.774050, Class: 0.997913, Obj: 0.997649, No Obj: 0.000150, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44891: 0.257137, 0.697759 avg, 0.001000 rate, 0.255512 seconds, 179564 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.804787, Class: 0.971231, Obj: 0.955068, No Obj: 0.005286, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.771803, Class: 0.999821, Obj: 0.970201, No Obj: 0.005108, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.767891, Class: 0.976605, Obj: 0.644979, No Obj: 0.001041, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44892: 0.587605, 0.686743 avg, 0.001000 rate, 0.358102 seconds, 179568 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.797903, Class: 0.946565, Obj: 0.729622, No Obj: 0.002631, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.826109, Class: 0.999783, Obj: 0.222032, No Obj: 0.000239, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.840771, Class: 0.975486, Obj: 0.930777, No Obj: 0.002035, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.733017, Class: 0.999748, Obj: 0.926377, No Obj: 0.000775, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: 0.743553, Class: 0.998854, Obj: 0.614006, No Obj: 0.000035, .5R: 1.000000, .75R: 0.000000,  count: 1
+44893: 0.562667, 0.674336 avg, 0.001000 rate, 0.360070 seconds, 179572 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.882063, Class: 0.884175, Obj: 0.693019, No Obj: 0.003348, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.821629, Class: 0.998590, Obj: 0.679470, No Obj: 0.000733, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.837585, Class: 0.997462, Obj: 0.859165, No Obj: 0.003165, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44894: 0.356062, 0.642508 avg, 0.001000 rate, 0.358475 seconds, 179576 images
+Loaded: 0.000086 seconds
+Region 82 Avg IOU: 0.806425, Class: 0.996123, Obj: 0.956251, No Obj: 0.004566, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.721162, Class: 0.975761, Obj: 0.532953, No Obj: 0.005993, .5R: 1.000000, .75R: 0.428571,  count: 7
+Region 94 Avg IOU: 0.770052, Class: 0.998450, Obj: 0.873057, No Obj: 0.002306, .5R: 1.000000, .75R: 0.555556,  count: 9
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44895: 1.203559, 0.698613 avg, 0.001000 rate, 0.361584 seconds, 179580 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.776953, Class: 0.929652, Obj: 0.706986, No Obj: 0.004327, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.964734, Class: 0.999879, Obj: 0.982519, No Obj: 0.000291, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.864823, Class: 0.970192, Obj: 0.196998, No Obj: 0.002360, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.804616, Class: 0.997647, Obj: 0.737700, No Obj: 0.000118, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44896: 0.490083, 0.677760 avg, 0.001000 rate, 0.357637 seconds, 179584 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.849441, Class: 0.996726, Obj: 0.979752, No Obj: 0.002270, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.596857, Class: 0.990568, Obj: 0.449360, No Obj: 0.000164, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: 0.834672, Class: 0.995544, Obj: 0.605373, No Obj: 0.000099, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.694902, Class: 0.992029, Obj: 0.974441, No Obj: 0.004269, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 94 Avg IOU: 0.832418, Class: 0.997026, Obj: 0.444054, No Obj: 0.000315, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44897: 0.603294, 0.670314 avg, 0.001000 rate, 0.358844 seconds, 179588 images
+Loaded: 0.000037 seconds
+Region 82 Avg IOU: 0.786556, Class: 0.998643, Obj: 0.950229, No Obj: 0.004782, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000085, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.926129, Class: 0.999536, Obj: 0.855429, No Obj: 0.002688, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44898: 0.220744, 0.625357 avg, 0.001000 rate, 0.358531 seconds, 179592 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.777616, Class: 0.996768, Obj: 0.566485, No Obj: 0.001260, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.522535, Class: 0.924534, Obj: 0.000387, No Obj: 0.000020, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.821841, Class: 0.999185, Obj: 0.784203, No Obj: 0.004951, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.724201, Class: 0.996028, Obj: 0.876285, No Obj: 0.000291, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.598742, Class: 0.977417, Obj: 0.104936, No Obj: 0.000045, .5R: 0.833333, .75R: 0.166667,  count: 6
+44899: 1.416880, 0.704509 avg, 0.001000 rate, 0.360752 seconds, 179596 images
+Loaded: 0.000505 seconds
+Region 82 Avg IOU: 0.711810, Class: 0.997528, Obj: 0.928751, No Obj: 0.003501, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.744614, Class: 0.985529, Obj: 0.807003, No Obj: 0.002619, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.800819, Class: 0.999887, Obj: 0.769093, No Obj: 0.000158, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+44900: 0.380141, 0.672072 avg, 0.001000 rate, 0.356533 seconds, 179600 images
+Saving weights to /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/yolov3/yolov3-voc-train.backup
+Resizing
+544
+Loaded: 0.000040 seconds
+Region 82 Avg IOU: 0.844540, Class: 0.979661, Obj: 0.698937, No Obj: 0.001564, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.843888, Class: 0.995936, Obj: 0.969397, No Obj: 0.005565, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44901: 0.265376, 0.631403 avg, 0.001000 rate, 0.256259 seconds, 179604 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.700361, Class: 0.937400, Obj: 0.596084, No Obj: 0.005062, .5R: 0.875000, .75R: 0.500000,  count: 8
+Region 94 Avg IOU: 0.648765, Class: 0.997289, Obj: 0.634541, No Obj: 0.000789, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.808306, Class: 0.975058, Obj: 0.922181, No Obj: 0.002873, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44902: 1.035608, 0.671823 avg, 0.001000 rate, 0.359603 seconds, 179608 images
+Loaded: 0.000035 seconds
+Region 82 Avg IOU: 0.879037, Class: 0.998866, Obj: 0.934846, No Obj: 0.001845, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.759308, Class: 0.983065, Obj: 0.928556, No Obj: 0.000138, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.828258, Class: 0.999714, Obj: 0.785586, No Obj: 0.001099, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.738642, Class: 0.997139, Obj: 0.773547, No Obj: 0.000469, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+44903: 0.237920, 0.628433 avg, 0.001000 rate, 0.354905 seconds, 179612 images
+Loaded: 0.000457 seconds
+Region 82 Avg IOU: 0.817786, Class: 0.993826, Obj: 0.967189, No Obj: 0.003457, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.831553, Class: 0.996490, Obj: 0.964129, No Obj: 0.001806, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.904109, Class: 0.989970, Obj: 0.986876, No Obj: 0.000698, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+44904: 0.069532, 0.572543 avg, 0.001000 rate, 0.357158 seconds, 179616 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.645738, Class: 0.998237, Obj: 0.650946, No Obj: 0.000742, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.578115, Class: 0.997472, Obj: 0.916404, No Obj: 0.000300, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.909494, Class: 0.996338, Obj: 0.665762, No Obj: 0.005248, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44905: 0.357077, 0.550996 avg, 0.001000 rate, 0.355271 seconds, 179620 images
+Loaded: 0.000525 seconds
+Region 82 Avg IOU: 0.740681, Class: 0.510772, Obj: 0.741266, No Obj: 0.002718, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.872237, Class: 0.988311, Obj: 0.964336, No Obj: 0.003218, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.714924, Class: 0.973223, Obj: 0.026959, No Obj: 0.000003, .5R: 1.000000, .75R: 0.000000,  count: 1
+44906: 0.587087, 0.554605 avg, 0.001000 rate, 0.356719 seconds, 179624 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.812836, Class: 0.995485, Obj: 0.501977, No Obj: 0.005560, .5R: 1.000000, .75R: 0.857143,  count: 7
+Region 94 Avg IOU: 0.840541, Class: 0.999706, Obj: 0.648766, No Obj: 0.000546, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.778218, Class: 0.991168, Obj: 0.866451, No Obj: 0.002916, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.944516, Class: 0.998656, Obj: 0.139349, No Obj: 0.000273, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.678252, Class: 0.999324, Obj: 0.071002, No Obj: 0.000008, .5R: 1.000000, .75R: 0.000000,  count: 1
+44907: 0.783230, 0.577468 avg, 0.001000 rate, 0.360767 seconds, 179628 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.645912, Class: 0.948124, Obj: 0.453565, No Obj: 0.000713, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.895678, Class: 0.841731, Obj: 0.722397, No Obj: 0.000250, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.834951, Class: 0.998756, Obj: 0.978793, No Obj: 0.001008, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.707548, Class: 0.987500, Obj: 0.530300, No Obj: 0.000639, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44908: 0.362559, 0.555977 avg, 0.001000 rate, 0.356032 seconds, 179632 images
+Loaded: 0.000705 seconds
+Region 82 Avg IOU: 0.793168, Class: 0.996262, Obj: 0.586810, No Obj: 0.002113, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.800371, Class: 0.786928, Obj: 0.554240, No Obj: 0.002591, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44909: 0.302905, 0.530669 avg, 0.001000 rate, 0.356562 seconds, 179636 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.758904, Class: 0.997651, Obj: 0.718565, No Obj: 0.001669, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000162, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.722579, Class: 0.777153, Obj: 0.330954, No Obj: 0.000153, .5R: 0.750000, .75R: 0.500000,  count: 4
+Region 82 Avg IOU: 0.794613, Class: 0.993798, Obj: 0.922270, No Obj: 0.002422, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44910: 0.687132, 0.546316 avg, 0.001000 rate, 0.357696 seconds, 179640 images
+Resizing
+448
+Loaded: 0.000055 seconds
+Region 82 Avg IOU: 0.711999, Class: 0.869677, Obj: 0.580105, No Obj: 0.007221, .5R: 1.000000, .75R: 0.500000,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000193, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.789524, Class: 0.997932, Obj: 0.794239, No Obj: 0.005427, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000087, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44911: 0.990218, 0.590706 avg, 0.001000 rate, 0.164364 seconds, 179644 images
+Loaded: 0.000618 seconds
+Region 82 Avg IOU: 0.797519, Class: 0.959514, Obj: 0.859406, No Obj: 0.005047, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.833522, Class: 0.999441, Obj: 0.885700, No Obj: 0.003631, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.785339, Class: 0.998824, Obj: 0.866533, No Obj: 0.000562, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44912: 0.234321, 0.555068 avg, 0.001000 rate, 0.230616 seconds, 179648 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: 0.800319, Class: 0.930496, Obj: 0.828423, No Obj: 0.004213, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.792034, Class: 0.999739, Obj: 0.440690, No Obj: 0.000188, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.888609, Class: 0.995789, Obj: 0.166191, No Obj: 0.001355, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.750272, Class: 0.988319, Obj: 0.185986, No Obj: 0.000331, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000099, .5R: -nan, .75R: -nan,  count: 0
+44913: 0.599418, 0.559503 avg, 0.001000 rate, 0.231977 seconds, 179652 images
+Loaded: 0.000425 seconds
+Region 82 Avg IOU: 0.863766, Class: 0.994614, Obj: 0.485554, No Obj: 0.001078, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.788635, Class: 0.995086, Obj: 0.655108, No Obj: 0.003825, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000327, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+44914: 0.296111, 0.533163 avg, 0.001000 rate, 0.231008 seconds, 179656 images
+Loaded: 0.000053 seconds
+Region 82 Avg IOU: 0.784294, Class: 0.995037, Obj: 0.889740, No Obj: 0.007566, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.882485, Class: 0.999705, Obj: 0.980294, No Obj: 0.000623, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.849401, Class: 0.994264, Obj: 0.882294, No Obj: 0.006133, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.691625, Class: 0.806307, Obj: 0.442370, No Obj: 0.000152, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000054, .5R: -nan, .75R: -nan,  count: 0
+44915: 0.262395, 0.506087 avg, 0.001000 rate, 0.231624 seconds, 179660 images
+Loaded: 0.000414 seconds
+Region 82 Avg IOU: 0.729175, Class: 0.998205, Obj: 0.873172, No Obj: 0.003647, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000110, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.780165, Class: 0.983318, Obj: 0.938440, No Obj: 0.004460, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.672925, Class: 0.999759, Obj: 0.806007, No Obj: 0.000752, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000124, .5R: -nan, .75R: -nan,  count: 0
+44916: 0.392282, 0.494706 avg, 0.001000 rate, 0.231584 seconds, 179664 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.731312, Class: 0.647770, Obj: 0.988774, No Obj: 0.001614, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000018, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.515551, Class: 0.998616, Obj: 0.714565, No Obj: 0.000087, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.843417, Class: 0.965834, Obj: 0.805125, No Obj: 0.003977, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000031, .5R: -nan, .75R: -nan,  count: 0
+44917: 0.371704, 0.482406 avg, 0.001000 rate, 0.231319 seconds, 179668 images
+Loaded: 0.000483 seconds
+Region 82 Avg IOU: 0.725675, Class: 0.996547, Obj: 0.962945, No Obj: 0.004771, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.785539, Class: 0.939623, Obj: 0.877266, No Obj: 0.002560, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44918: 0.205486, 0.454714 avg, 0.001000 rate, 0.230274 seconds, 179672 images
+Loaded: 0.000031 seconds
+Region 82 Avg IOU: 0.780173, Class: 0.853933, Obj: 0.930661, No Obj: 0.004287, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.849703, Class: 0.999228, Obj: 0.524427, No Obj: 0.003183, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.846676, Class: 0.999393, Obj: 0.635254, No Obj: 0.000274, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44919: 0.279679, 0.437210 avg, 0.001000 rate, 0.230634 seconds, 179676 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: 0.813372, Class: 0.992125, Obj: 0.904531, No Obj: 0.004017, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.791130, Class: 0.998678, Obj: 0.865437, No Obj: 0.000248, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000208, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.709579, Class: 0.998253, Obj: 0.631694, No Obj: 0.001795, .5R: 1.000000, .75R: 0.500000,  count: 8
+Region 106 Avg IOU: 0.700787, Class: 0.997976, Obj: 0.543563, No Obj: 0.000805, .5R: 0.923077, .75R: 0.307692,  count: 13
+44920: 1.509583, 0.544448 avg, 0.001000 rate, 0.235423 seconds, 179680 images
+Resizing
+480
+Loaded: 0.000569 seconds
+Region 82 Avg IOU: 0.821034, Class: 0.997447, Obj: 0.893795, No Obj: 0.005337, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000109, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.674318, Class: 0.988343, Obj: 0.962001, No Obj: 0.002872, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000093, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000043, .5R: -nan, .75R: -nan,  count: 0
+44921: 0.313284, 0.521331 avg, 0.001000 rate, 0.180389 seconds, 179684 images
+Loaded: 0.000763 seconds
+Region 82 Avg IOU: 0.785445, Class: 0.996498, Obj: 0.554463, No Obj: 0.002329, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.732600, Class: 0.990613, Obj: 0.896943, No Obj: 0.001026, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.825728, Class: 0.999181, Obj: 0.586939, No Obj: 0.000107, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.851922, Class: 0.998448, Obj: 0.970216, No Obj: 0.003583, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44922: 0.414330, 0.510631 avg, 0.001000 rate, 0.254708 seconds, 179688 images
+Loaded: 0.000471 seconds
+Region 82 Avg IOU: 0.759196, Class: 0.995116, Obj: 0.937724, No Obj: 0.001915, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.654909, Class: 0.946476, Obj: 0.322350, No Obj: 0.002522, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.863487, Class: 0.999188, Obj: 0.770148, No Obj: 0.000420, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.509102, Class: 0.997993, Obj: 0.875602, No Obj: 0.000044, .5R: 1.000000, .75R: 0.000000,  count: 1
+44923: 0.468269, 0.506395 avg, 0.001000 rate, 0.254226 seconds, 179692 images
+Loaded: 0.000414 seconds
+Region 82 Avg IOU: 0.674672, Class: 0.998829, Obj: 0.688667, No Obj: 0.001376, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.742692, Class: 0.881483, Obj: 0.560467, No Obj: 0.000431, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.734211, Class: 0.991328, Obj: 0.668038, No Obj: 0.004926, .5R: 0.833333, .75R: 0.500000,  count: 6
+Region 94 Avg IOU: 0.737597, Class: 0.994398, Obj: 0.102359, No Obj: 0.000168, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44924: 0.915469, 0.547302 avg, 0.001000 rate, 0.257683 seconds, 179696 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.884419, Class: 0.994164, Obj: 0.294417, No Obj: 0.002653, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.844589, Class: 0.985375, Obj: 0.808877, No Obj: 0.008309, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: 0.800983, Class: 0.994327, Obj: 0.845979, No Obj: 0.001015, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+44925: 0.474791, 0.540051 avg, 0.001000 rate, 0.256458 seconds, 179700 images
+Loaded: 0.000419 seconds
+Region 82 Avg IOU: 0.867378, Class: 0.998074, Obj: 0.937201, No Obj: 0.007802, .5R: 1.000000, .75R: 1.000000,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.798840, Class: 0.998063, Obj: 0.732171, No Obj: 0.004361, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.579365, Class: 0.834547, Obj: 0.593839, No Obj: 0.000137, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44926: 0.357539, 0.521800 avg, 0.001000 rate, 0.255597 seconds, 179704 images
+Loaded: 0.000461 seconds
+Region 82 Avg IOU: 0.761312, Class: 0.853340, Obj: 0.957992, No Obj: 0.003286, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.711189, Class: 0.980094, Obj: 0.491931, No Obj: 0.003284, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.682703, Class: 0.999596, Obj: 0.690875, No Obj: 0.000848, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.732820, Class: 0.998625, Obj: 0.461201, No Obj: 0.000119, .5R: 1.000000, .75R: 0.500000,  count: 2
+44927: 0.782095, 0.547829 avg, 0.001000 rate, 0.256128 seconds, 179708 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.719149, Class: 0.967518, Obj: 0.890044, No Obj: 0.005860, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.859449, Class: 0.990694, Obj: 0.782310, No Obj: 0.009886, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+44928: 0.489129, 0.541959 avg, 0.001000 rate, 0.257017 seconds, 179712 images
+Loaded: 0.000490 seconds
+Region 82 Avg IOU: 0.815041, Class: 0.940338, Obj: 0.980067, No Obj: 0.003131, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.861778, Class: 0.997953, Obj: 0.609326, No Obj: 0.002868, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.856824, Class: 0.979976, Obj: 0.957172, No Obj: 0.000847, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44929: 0.286740, 0.516437 avg, 0.001000 rate, 0.255334 seconds, 179716 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.798125, Class: 0.995749, Obj: 0.890159, No Obj: 0.006665, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 94 Avg IOU: 0.809989, Class: 0.999316, Obj: 0.182743, No Obj: 0.000072, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.746807, Class: 0.971840, Obj: 0.797732, No Obj: 0.002972, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44930: 0.399848, 0.504779 avg, 0.001000 rate, 0.256292 seconds, 179720 images
+Resizing
+576
+Loaded: 0.000052 seconds
+Region 82 Avg IOU: 0.862414, Class: 0.998808, Obj: 0.837603, No Obj: 0.002062, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000162, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.742187, Class: 0.998939, Obj: 0.836780, No Obj: 0.003851, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.680026, Class: 0.991005, Obj: 0.366263, No Obj: 0.000227, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44931: 0.406821, 0.494983 avg, 0.001000 rate, 0.273173 seconds, 179724 images
+Loaded: 0.000582 seconds
+Region 82 Avg IOU: 0.854914, Class: 0.954829, Obj: 0.016314, No Obj: 0.000831, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.768914, Class: 0.997381, Obj: 0.811561, No Obj: 0.000255, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.860805, Class: 0.927876, Obj: 0.674364, No Obj: 0.004838, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44932: 0.319607, 0.477445 avg, 0.001000 rate, 0.382070 seconds, 179728 images
+Loaded: 0.000469 seconds
+Region 82 Avg IOU: 0.841722, Class: 0.997534, Obj: 0.866079, No Obj: 0.001470, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.817683, Class: 0.983823, Obj: 0.886236, No Obj: 0.000541, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.759563, Class: 0.997825, Obj: 0.606057, No Obj: 0.001709, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44933: 0.314606, 0.461161 avg, 0.001000 rate, 0.382936 seconds, 179732 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.711716, Class: 0.999317, Obj: 0.022473, No Obj: 0.000620, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.740193, Class: 0.998523, Obj: 0.719197, No Obj: 0.000119, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.527755, Class: 0.994136, Obj: 0.965714, No Obj: 0.000048, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.754078, Class: 0.977689, Obj: 0.934792, No Obj: 0.004033, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000133, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44934: 0.490187, 0.464064 avg, 0.001000 rate, 0.382774 seconds, 179736 images
+Loaded: 0.000330 seconds
+Region 82 Avg IOU: 0.823585, Class: 0.992131, Obj: 0.065174, No Obj: 0.000714, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.672766, Class: 0.998929, Obj: 0.861481, No Obj: 0.000280, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.897146, Class: 0.994279, Obj: 0.976465, No Obj: 0.002147, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44935: 0.279543, 0.445612 avg, 0.001000 rate, 0.381876 seconds, 179740 images
+Loaded: 0.000431 seconds
+Region 82 Avg IOU: 0.785796, Class: 0.990415, Obj: 0.943327, No Obj: 0.002991, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.806425, Class: 0.997343, Obj: 0.745798, No Obj: 0.001874, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.762798, Class: 0.838620, Obj: 0.825514, No Obj: 0.001264, .5R: 1.000000, .75R: 0.555556,  count: 9
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44936: 0.799250, 0.480976 avg, 0.001000 rate, 0.387068 seconds, 179744 images
+Loaded: 0.000477 seconds
+Region 82 Avg IOU: 0.779425, Class: 0.995102, Obj: 0.890073, No Obj: 0.003664, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.745657, Class: 0.998592, Obj: 0.618529, No Obj: 0.004002, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 94 Avg IOU: 0.889531, Class: 0.999941, Obj: 0.768199, No Obj: 0.000233, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44937: 0.497569, 0.482635 avg, 0.001000 rate, 0.382732 seconds, 179748 images
+Loaded: 0.000556 seconds
+Region 82 Avg IOU: 0.782329, Class: 0.992523, Obj: 0.888471, No Obj: 0.008200, .5R: 1.000000, .75R: 0.714286,  count: 7
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.862767, Class: 0.994830, Obj: 0.387828, No Obj: 0.001310, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.841746, Class: 0.985764, Obj: 0.752179, No Obj: 0.000467, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44938: 0.546261, 0.488998 avg, 0.001000 rate, 0.384193 seconds, 179752 images
+Loaded: 0.000056 seconds
+Region 82 Avg IOU: 0.776351, Class: 0.993395, Obj: 0.855953, No Obj: 0.003483, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.676429, Class: 0.998205, Obj: 0.916506, No Obj: 0.000401, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.795386, Class: 0.998809, Obj: 0.787734, No Obj: 0.001770, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.748679, Class: 0.868354, Obj: 0.815544, No Obj: 0.000384, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+44939: 0.373922, 0.477490 avg, 0.001000 rate, 0.384826 seconds, 179756 images
+Loaded: 0.000032 seconds
+Region 82 Avg IOU: 0.867925, Class: 0.995477, Obj: 0.851577, No Obj: 0.002107, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.673766, Class: 0.999454, Obj: 0.685953, No Obj: 0.000114, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.759923, Class: 0.971804, Obj: 0.904180, No Obj: 0.001849, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.630336, Class: 0.989573, Obj: 0.910922, No Obj: 0.000177, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.690343, Class: 0.364049, Obj: 0.111700, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000,  count: 1
+44940: 0.392894, 0.469030 avg, 0.001000 rate, 0.383072 seconds, 179760 images
+Resizing
+448
+Loaded: 0.000410 seconds
+Region 82 Avg IOU: 0.814069, Class: 0.998213, Obj: 0.948293, No Obj: 0.004857, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.722126, Class: 0.988438, Obj: 0.720788, No Obj: 0.004631, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 94 Avg IOU: 0.792079, Class: 0.966766, Obj: 0.524328, No Obj: 0.002050, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+44941: 0.853435, 0.507471 avg, 0.001000 rate, 0.165568 seconds, 179764 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.717364, Class: 0.998580, Obj: 0.812756, No Obj: 0.004544, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.754796, Class: 0.931789, Obj: 0.511534, No Obj: 0.002798, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000166, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44942: 0.369348, 0.493659 avg, 0.001000 rate, 0.230859 seconds, 179768 images
+Loaded: 0.000664 seconds
+Region 82 Avg IOU: 0.831366, Class: 0.997197, Obj: 0.810298, No Obj: 0.004418, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.625908, Class: 0.997115, Obj: 0.611085, No Obj: 0.001007, .5R: 1.000000, .75R: 0.000000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.786065, Class: 0.999083, Obj: 0.754902, No Obj: 0.003581, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.813972, Class: 0.957207, Obj: 0.467567, No Obj: 0.000684, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44943: 0.703915, 0.514684 avg, 0.001000 rate, 0.231893 seconds, 179772 images
+Loaded: 0.000414 seconds
+Region 82 Avg IOU: 0.826724, Class: 0.992308, Obj: 0.552778, No Obj: 0.002842, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.719004, Class: 0.987234, Obj: 0.443621, No Obj: 0.000625, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.813545, Class: 0.996790, Obj: 0.802012, No Obj: 0.007429, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: 0.817610, Class: 0.999931, Obj: 0.916117, No Obj: 0.000478, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44944: 0.647876, 0.528003 avg, 0.001000 rate, 0.231412 seconds, 179776 images
+Loaded: 0.000399 seconds
+Region 82 Avg IOU: 0.668716, Class: 0.998432, Obj: 0.812132, No Obj: 0.001051, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.794756, Class: 0.998599, Obj: 0.754695, No Obj: 0.001125, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: 0.509222, Class: 0.999450, Obj: 0.973044, No Obj: 0.000260, .5R: 0.333333, .75R: 0.000000,  count: 3
+Region 82 Avg IOU: 0.806113, Class: 0.999172, Obj: 0.879625, No Obj: 0.001952, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44945: 0.610687, 0.536272 avg, 0.001000 rate, 0.232918 seconds, 179780 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.856943, Class: 0.998944, Obj: 0.967085, No Obj: 0.001861, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.869964, Class: 0.998419, Obj: 0.096785, No Obj: 0.000271, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.786228, Class: 0.994309, Obj: 0.703627, No Obj: 0.013060, .5R: 1.000000, .75R: 0.571429,  count: 7
+Region 94 Avg IOU: 0.704548, Class: 0.996756, Obj: 0.471449, No Obj: 0.000966, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+44946: 0.810484, 0.563693 avg, 0.001000 rate, 0.232698 seconds, 179784 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.812794, Class: 0.996414, Obj: 0.776577, No Obj: 0.004630, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.699528, Class: 0.961248, Obj: 0.170696, No Obj: 0.000840, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.649335, Class: 0.998832, Obj: 0.509686, No Obj: 0.004222, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.729306, Class: 0.989974, Obj: 0.693483, No Obj: 0.003531, .5R: 1.000000, .75R: 0.333333,  count: 12
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000065, .5R: -nan, .75R: -nan,  count: 0
+44947: 1.570973, 0.664421 avg, 0.001000 rate, 0.235239 seconds, 179788 images
+Loaded: 0.000058 seconds
+Region 82 Avg IOU: 0.793052, Class: 0.981137, Obj: 0.895416, No Obj: 0.005855, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.721205, Class: 0.965311, Obj: 0.828755, No Obj: 0.000246, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.629638, Class: 0.962901, Obj: 0.710970, No Obj: 0.004211, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 94 Avg IOU: 0.782313, Class: 0.995609, Obj: 0.736552, No Obj: 0.001320, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: 0.483062, Class: 0.998012, Obj: 0.754839, No Obj: 0.000179, .5R: 0.500000, .75R: 0.000000,  count: 2
+44948: 0.848775, 0.682856 avg, 0.001000 rate, 0.233413 seconds, 179792 images
+Loaded: 0.000396 seconds
+Region 82 Avg IOU: 0.842677, Class: 0.994890, Obj: 0.624121, No Obj: 0.003525, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.963520, Class: 0.999133, Obj: 0.979170, No Obj: 0.000330, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.813173, Class: 0.993620, Obj: 0.736958, No Obj: 0.004500, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.711755, Class: 0.995031, Obj: 0.334389, No Obj: 0.000554, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44949: 0.461512, 0.660722 avg, 0.001000 rate, 0.232731 seconds, 179796 images
+Loaded: 0.000033 seconds
+Region 82 Avg IOU: 0.833059, Class: 0.997114, Obj: 0.851129, No Obj: 0.003256, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.740248, Class: 0.995104, Obj: 0.675031, No Obj: 0.001249, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.737238, Class: 0.999767, Obj: 0.936525, No Obj: 0.000064, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.773749, Class: 0.998744, Obj: 0.904617, No Obj: 0.002741, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.834264, Class: 0.997577, Obj: 0.804267, No Obj: 0.000976, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: 0.789433, Class: 0.950428, Obj: 0.784700, No Obj: 0.000112, .5R: 1.000000, .75R: 0.500000,  count: 2
+44950: 0.403857, 0.635036 avg, 0.001000 rate, 0.233766 seconds, 179800 images
+Resizing
+512
+Loaded: 0.000356 seconds
+Region 82 Avg IOU: 0.835171, Class: 0.986595, Obj: 0.663030, No Obj: 0.007539, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.767118, Class: 0.982713, Obj: 0.799589, No Obj: 0.005798, .5R: 1.000000, .75R: 0.571429,  count: 7
+Region 94 Avg IOU: 0.876120, Class: 0.999756, Obj: 0.888631, No Obj: 0.000273, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44951: 0.701461, 0.641678 avg, 0.001000 rate, 0.200228 seconds, 179804 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.806887, Class: 0.998971, Obj: 0.707712, No Obj: 0.004530, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.590068, Class: 0.997408, Obj: 0.910306, No Obj: 0.000668, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.749109, Class: 0.919598, Obj: 0.945855, No Obj: 0.002959, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.760690, Class: 0.997186, Obj: 0.149833, No Obj: 0.000070, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44952: 0.609227, 0.638433 avg, 0.001000 rate, 0.283885 seconds, 179808 images
+Loaded: 0.000419 seconds
+Region 82 Avg IOU: 0.877756, Class: 0.902364, Obj: 0.526469, No Obj: 0.006685, .5R: 1.000000, .75R: 1.000000,  count: 8
+Region 94 Avg IOU: 0.619538, Class: 0.995638, Obj: 0.317835, No Obj: 0.001245, .5R: 1.000000, .75R: 0.000000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.800733, Class: 0.999661, Obj: 0.979758, No Obj: 0.002339, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44953: 1.161259, 0.690716 avg, 0.001000 rate, 0.283068 seconds, 179812 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.843873, Class: 0.969169, Obj: 0.480652, No Obj: 0.002142, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000099, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.857348, Class: 0.997905, Obj: 0.980114, No Obj: 0.003789, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.750635, Class: 0.890337, Obj: 0.081199, No Obj: 0.000021, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44954: 0.444594, 0.666103 avg, 0.001000 rate, 0.280014 seconds, 179816 images
+Loaded: 0.000033 seconds
+Region 82 Avg IOU: 0.759892, Class: 0.997640, Obj: 0.758683, No Obj: 0.004274, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.816339, Class: 0.957426, Obj: 0.896508, No Obj: 0.002861, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.749064, Class: 0.998226, Obj: 0.489214, No Obj: 0.000806, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44955: 0.567636, 0.656257 avg, 0.001000 rate, 0.280698 seconds, 179820 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.782031, Class: 0.999645, Obj: 0.971006, No Obj: 0.005501, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.464455, Class: 0.999797, Obj: 0.859049, No Obj: 0.000497, .5R: 0.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.764312, Class: 0.998709, Obj: 0.802569, No Obj: 0.004206, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44956: 0.723465, 0.662978 avg, 0.001000 rate, 0.282398 seconds, 179824 images
+Loaded: 0.000560 seconds
+Region 82 Avg IOU: 0.749905, Class: 0.975796, Obj: 0.878653, No Obj: 0.005209, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.849983, Class: 0.998967, Obj: 0.838184, No Obj: 0.002749, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.894996, Class: 0.999846, Obj: 0.922460, No Obj: 0.000174, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+44957: 0.235780, 0.620258 avg, 0.001000 rate, 0.279547 seconds, 179828 images
+Loaded: 0.000556 seconds
+Region 82 Avg IOU: 0.820733, Class: 0.862858, Obj: 0.680987, No Obj: 0.003414, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.771083, Class: 0.999447, Obj: 0.945599, No Obj: 0.000600, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.756895, Class: 0.928587, Obj: 0.039897, No Obj: 0.000012, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.522204, Class: 0.999597, Obj: 0.978850, No Obj: 0.000738, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.929896, Class: 0.999911, Obj: 0.889100, No Obj: 0.000400, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44958: 0.598023, 0.618034 avg, 0.001000 rate, 0.281200 seconds, 179832 images
+Loaded: 0.000050 seconds
+Region 82 Avg IOU: 0.836834, Class: 0.990066, Obj: 0.819143, No Obj: 0.004547, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.603269, Class: 0.999895, Obj: 0.435176, No Obj: 0.000410, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.764334, Class: 0.957867, Obj: 0.452028, No Obj: 0.008823, .5R: 1.000000, .75R: 0.700000,  count: 10
+Region 94 Avg IOU: 0.782816, Class: 0.996601, Obj: 0.925909, No Obj: 0.000686, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.524009, Class: 0.999601, Obj: 0.075588, No Obj: 0.000005, .5R: 1.000000, .75R: 0.000000,  count: 1
+44959: 1.198008, 0.676032 avg, 0.001000 rate, 0.285897 seconds, 179836 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.908767, Class: 0.964647, Obj: 0.820925, No Obj: 0.003747, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.852901, Class: 0.999931, Obj: 0.893326, No Obj: 0.000249, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.719605, Class: 0.997424, Obj: 0.994905, No Obj: 0.001539, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.901723, Class: 0.999712, Obj: 0.829686, No Obj: 0.000296, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44960: 0.128324, 0.621261 avg, 0.001000 rate, 0.279958 seconds, 179840 images
+Resizing
+448
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.819862, Class: 0.993072, Obj: 0.442504, No Obj: 0.002753, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000218, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.916530, Class: 0.999052, Obj: 0.936807, No Obj: 0.007952, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.781177, Class: 0.999693, Obj: 0.732202, No Obj: 0.003244, .5R: 1.000000, .75R: 0.700000,  count: 10
+Region 106 Avg IOU: 0.725999, Class: 0.993180, Obj: 0.183266, No Obj: 0.000063, .5R: 1.000000, .75R: 0.666667,  count: 3
+44961: 0.886447, 0.647780 avg, 0.001000 rate, 0.166371 seconds, 179844 images
+Loaded: 0.000412 seconds
+Region 82 Avg IOU: 0.705260, Class: 0.988879, Obj: 0.825884, No Obj: 0.004393, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 94 Avg IOU: 0.665312, Class: 0.999858, Obj: 0.879146, No Obj: 0.000221, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.795819, Class: 0.998060, Obj: 0.613866, No Obj: 0.003239, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.722180, Class: 0.999187, Obj: 0.297484, No Obj: 0.000590, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44962: 0.573763, 0.640378 avg, 0.001000 rate, 0.232733 seconds, 179848 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.853493, Class: 0.998814, Obj: 0.915060, No Obj: 0.012737, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: 0.767315, Class: 0.998079, Obj: 0.888252, No Obj: 0.001070, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.737915, Class: 0.987690, Obj: 0.981257, No Obj: 0.002367, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.764082, Class: 0.935660, Obj: 0.763395, No Obj: 0.000913, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44963: 0.421370, 0.618477 avg, 0.001000 rate, 0.233021 seconds, 179852 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.819945, Class: 0.994340, Obj: 0.817807, No Obj: 0.004422, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000049, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.757136, Class: 0.997804, Obj: 0.917920, No Obj: 0.000974, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000107, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.625441, Class: 0.906837, Obj: 0.624955, No Obj: 0.000169, .5R: 1.000000, .75R: 0.000000,  count: 2
+44964: 0.310811, 0.587710 avg, 0.001000 rate, 0.230822 seconds, 179856 images
+Loaded: 0.000090 seconds
+Region 82 Avg IOU: 0.782278, Class: 0.999553, Obj: 0.990080, No Obj: 0.002885, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.628023, Class: 0.912816, Obj: 0.561479, No Obj: 0.000850, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.777339, Class: 0.998852, Obj: 0.969594, No Obj: 0.007413, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.481958, Class: 0.963576, Obj: 0.639969, No Obj: 0.000148, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.723976, Class: 0.887793, Obj: 0.627982, No Obj: 0.000039, .5R: 1.000000, .75R: 0.000000,  count: 1
+44965: 0.808985, 0.609838 avg, 0.001000 rate, 0.232173 seconds, 179860 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.833307, Class: 0.983152, Obj: 0.945104, No Obj: 0.008920, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.708113, Class: 0.994862, Obj: 0.368439, No Obj: 0.001251, .5R: 0.750000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.785638, Class: 0.996694, Obj: 0.745012, No Obj: 0.004290, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.710846, Class: 0.410830, Obj: 0.021223, No Obj: 0.000139, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.705140, Class: 0.294074, Obj: 0.153100, No Obj: 0.000019, .5R: 1.000000, .75R: 0.000000,  count: 1
+44966: 1.331638, 0.682018 avg, 0.001000 rate, 0.233495 seconds, 179864 images
+Loaded: 0.000051 seconds
+Region 82 Avg IOU: 0.858031, Class: 0.993081, Obj: 0.644581, No Obj: 0.009837, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.651645, Class: 0.993215, Obj: 0.817752, No Obj: 0.001321, .5R: 0.750000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: 0.838432, Class: 0.962101, Obj: 0.574377, No Obj: 0.000044, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.734707, Class: 0.991509, Obj: 0.981361, No Obj: 0.005930, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.790534, Class: 0.973377, Obj: 0.235755, No Obj: 0.000479, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: 0.781050, Class: 0.999427, Obj: 0.391636, No Obj: 0.000370, .5R: 1.000000, .75R: 0.625000,  count: 8
+44967: 1.443360, 0.758152 avg, 0.001000 rate, 0.237809 seconds, 179868 images
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000050, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.723569, Class: 0.985805, Obj: 0.782589, No Obj: 0.002098, .5R: 1.000000, .75R: 0.444444,  count: 9
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000018, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.770822, Class: 0.956642, Obj: 0.608920, No Obj: 0.004896, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000032, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44968: 0.508232, 0.733160 avg, 0.001000 rate, 0.232317 seconds, 179872 images
+Loaded: 0.000414 seconds
+Region 82 Avg IOU: 0.897161, Class: 0.997914, Obj: 0.845969, No Obj: 0.002544, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.771117, Class: 0.998602, Obj: 0.442351, No Obj: 0.000657, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.842534, Class: 0.998458, Obj: 0.986823, No Obj: 0.004270, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.783898, Class: 0.999911, Obj: 0.478338, No Obj: 0.000653, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: 0.732147, Class: 0.999879, Obj: 0.270961, No Obj: 0.000044, .5R: 1.000000, .75R: 0.000000,  count: 1
+44969: 0.549503, 0.714794 avg, 0.001000 rate, 0.232405 seconds, 179876 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.756254, Class: 0.992453, Obj: 0.929221, No Obj: 0.009589, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: 0.740112, Class: 0.997109, Obj: 0.981408, No Obj: 0.001061, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.889565, Class: 0.990655, Obj: 0.456189, No Obj: 0.003602, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000131, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.670910, Class: 0.998603, Obj: 0.629857, No Obj: 0.000036, .5R: 1.000000, .75R: 0.000000,  count: 1
+44970: 0.540263, 0.697341 avg, 0.001000 rate, 0.232453 seconds, 179880 images
+Resizing
+352
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.832865, Class: 0.998465, Obj: 0.682490, No Obj: 0.009399, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000115, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000016, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.907559, Class: 0.999955, Obj: 0.998418, No Obj: 0.002463, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.861039, Class: 0.993935, Obj: 0.300049, No Obj: 0.001916, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: 0.797311, Class: 0.146352, Obj: 0.067842, No Obj: 0.000069, .5R: 1.000000, .75R: 1.000000,  count: 1
+44971: 0.680220, 0.695629 avg, 0.001000 rate, 0.110439 seconds, 179884 images
+Loaded: 0.000545 seconds
+Region 82 Avg IOU: 0.698167, Class: 0.999660, Obj: 0.623468, No Obj: 0.005099, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.836421, Class: 0.977931, Obj: 0.692913, No Obj: 0.008215, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.850239, Class: 0.777704, Obj: 0.815094, No Obj: 0.001586, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+44972: 0.492793, 0.675345 avg, 0.001000 rate, 0.157286 seconds, 179888 images
+Loaded: 0.000031 seconds
+Region 82 Avg IOU: 0.742178, Class: 0.991957, Obj: 0.753661, No Obj: 0.007288, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.778631, Class: 0.957000, Obj: 0.434237, No Obj: 0.001120, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.831133, Class: 0.995098, Obj: 0.271489, No Obj: 0.007823, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.745367, Class: 0.952072, Obj: 0.495388, No Obj: 0.000896, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.692373, Class: 0.697756, Obj: 0.163720, No Obj: 0.000033, .5R: 1.000000, .75R: 0.000000,  count: 1
+44973: 1.002710, 0.708082 avg, 0.001000 rate, 0.158418 seconds, 179892 images
+Loaded: 0.000402 seconds
+Region 82 Avg IOU: 0.874533, Class: 0.997021, Obj: 0.629848, No Obj: 0.010232, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.887701, Class: 0.999715, Obj: 0.971364, No Obj: 0.000904, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.791022, Class: 0.999333, Obj: 0.891469, No Obj: 0.010227, .5R: 0.750000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.811537, Class: 0.999363, Obj: 0.091855, No Obj: 0.000482, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+44974: 0.634700, 0.700744 avg, 0.001000 rate, 0.158068 seconds, 179896 images
+Loaded: 0.000501 seconds
+Region 82 Avg IOU: 0.853781, Class: 0.983191, Obj: 0.844023, No Obj: 0.004962, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.705372, Class: 0.939865, Obj: 0.291417, No Obj: 0.001760, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.725859, Class: 0.978579, Obj: 0.730247, No Obj: 0.006458, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000097, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+44975: 0.628157, 0.693485 avg, 0.001000 rate, 0.157093 seconds, 179900 images
+Loaded: 0.000397 seconds
+Region 82 Avg IOU: 0.778735, Class: 0.871442, Obj: 0.628496, No Obj: 0.005310, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000298, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.709911, Class: 0.948805, Obj: 0.300225, No Obj: 0.000467, .5R: 1.000000, .75R: 0.428571,  count: 7
+Region 82 Avg IOU: 0.846484, Class: 0.990637, Obj: 0.712510, No Obj: 0.006345, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44976: 0.848388, 0.708975 avg, 0.001000 rate, 0.158026 seconds, 179904 images
+Loaded: 0.000398 seconds
+Region 82 Avg IOU: 0.883944, Class: 0.997851, Obj: 0.774840, No Obj: 0.008860, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.775579, Class: 0.985493, Obj: 0.417504, No Obj: 0.002434, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.762041, Class: 0.991097, Obj: 0.622180, No Obj: 0.002992, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.765776, Class: 0.914690, Obj: 0.822557, No Obj: 0.002299, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: 0.774377, Class: 0.992750, Obj: 0.076579, No Obj: 0.000122, .5R: 1.000000, .75R: 1.000000,  count: 1
+44977: 0.908414, 0.728919 avg, 0.001000 rate, 0.159856 seconds, 179908 images
+Loaded: 0.000508 seconds
+Region 82 Avg IOU: 0.773844, Class: 0.999012, Obj: 0.544501, No Obj: 0.004595, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.512725, Class: 0.951642, Obj: 0.948996, No Obj: 0.000493, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000082, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.750517, Class: 0.998712, Obj: 0.964613, No Obj: 0.003086, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000091, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.651533, Class: 0.473516, Obj: 0.651824, No Obj: 0.000354, .5R: 1.000000, .75R: 0.333333,  count: 3
+44978: 0.856222, 0.741650 avg, 0.001000 rate, 0.157261 seconds, 179912 images
+Loaded: 0.000457 seconds
+Region 82 Avg IOU: 0.785890, Class: 0.994489, Obj: 0.915036, No Obj: 0.003681, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000030, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000189, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.773247, Class: 0.996056, Obj: 0.630192, No Obj: 0.006461, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.721867, Class: 0.992798, Obj: 0.846477, No Obj: 0.002944, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000031, .5R: -nan, .75R: -nan,  count: 0
+44979: 0.533387, 0.720823 avg, 0.001000 rate, 0.158341 seconds, 179916 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: 0.744673, Class: 0.927220, Obj: 0.628102, No Obj: 0.010073, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.891854, Class: 0.979956, Obj: 0.912892, No Obj: 0.000686, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.602174, Class: 0.714426, Obj: 0.204334, No Obj: 0.004121, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.772001, Class: 0.757520, Obj: 0.439488, No Obj: 0.002625, .5R: 1.000000, .75R: 0.750000,  count: 8
+Region 106 Avg IOU: 0.690064, Class: 0.926509, Obj: 0.572344, No Obj: 0.000340, .5R: 1.000000, .75R: 0.500000,  count: 2
+44980: 1.549690, 0.803710 avg, 0.001000 rate, 0.159788 seconds, 179920 images
+Resizing
+352
+Loaded: 0.000051 seconds
+Region 82 Avg IOU: 0.842030, Class: 0.999597, Obj: 0.985302, No Obj: 0.004404, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.903131, Class: 0.974914, Obj: 0.965753, No Obj: 0.000291, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.782296, Class: 0.995969, Obj: 0.720698, No Obj: 0.003701, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.807099, Class: 0.995291, Obj: 0.910062, No Obj: 0.000804, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+44981: 0.178438, 0.741183 avg, 0.001000 rate, 0.110023 seconds, 179924 images
+Loaded: 0.000426 seconds
+Region 82 Avg IOU: 0.891392, Class: 0.706588, Obj: 0.968653, No Obj: 0.007968, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.690006, Class: 0.535721, Obj: 0.977642, No Obj: 0.006519, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.681163, Class: 0.829719, Obj: 0.578218, No Obj: 0.000766, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.616495, Class: 0.980386, Obj: 0.388113, No Obj: 0.000495, .5R: 0.750000, .75R: 0.250000,  count: 4
+44982: 1.239831, 0.791048 avg, 0.001000 rate, 0.160017 seconds, 179928 images
+Loaded: 0.000579 seconds
+Region 82 Avg IOU: 0.788489, Class: 0.997247, Obj: 0.861927, No Obj: 0.011012, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.678192, Class: 0.999178, Obj: 0.659392, No Obj: 0.005538, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 94 Avg IOU: 0.703811, Class: 0.994451, Obj: 0.222411, No Obj: 0.000724, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+44983: 0.616741, 0.773617 avg, 0.001000 rate, 0.157720 seconds, 179932 images
+Loaded: 0.000026 seconds
+Region 82 Avg IOU: 0.757725, Class: 0.965018, Obj: 0.977248, No Obj: 0.009168, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000029, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.824199, Class: 0.987151, Obj: 0.488973, No Obj: 0.009191, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44984: 0.272421, 0.723497 avg, 0.001000 rate, 0.157386 seconds, 179936 images
+Loaded: 0.000024 seconds
+Region 82 Avg IOU: 0.681187, Class: 0.831508, Obj: 0.675891, No Obj: 0.009474, .5R: 1.000000, .75R: 0.200000,  count: 5
+Region 94 Avg IOU: 0.784564, Class: 0.992059, Obj: 0.755435, No Obj: 0.002919, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: 0.663590, Class: 0.996011, Obj: 0.659780, No Obj: 0.000406, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 82 Avg IOU: 0.840917, Class: 0.993649, Obj: 0.923289, No Obj: 0.008292, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000284, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan,  count: 0
+44985: 0.873112, 0.738459 avg, 0.001000 rate, 0.159302 seconds, 179940 images
+Loaded: 0.000025 seconds
+Region 82 Avg IOU: 0.803251, Class: 0.993753, Obj: 0.756367, No Obj: 0.004364, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.855029, Class: 0.994962, Obj: 0.970395, No Obj: 0.000603, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.730839, Class: 0.775365, Obj: 0.117123, No Obj: 0.000110, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 82 Avg IOU: 0.800634, Class: 0.999916, Obj: 0.999549, No Obj: 0.001403, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.813582, Class: 0.951745, Obj: 0.581434, No Obj: 0.000947, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: 0.664360, Class: 0.925185, Obj: 0.438453, No Obj: 0.000282, .5R: 1.000000, .75R: 0.000000,  count: 3
+44986: 0.914816, 0.756095 avg, 0.001000 rate, 0.158502 seconds, 179944 images
+Loaded: 0.000400 seconds
+Region 82 Avg IOU: 0.744554, Class: 0.980430, Obj: 0.921975, No Obj: 0.008962, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.806295, Class: 0.976522, Obj: 0.881203, No Obj: 0.001131, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.748142, Class: 0.975586, Obj: 0.928426, No Obj: 0.005795, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.731277, Class: 0.835349, Obj: 0.683575, No Obj: 0.001772, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+44987: 0.679460, 0.748431 avg, 0.001000 rate, 0.158095 seconds, 179948 images
+Loaded: 0.000155 seconds
+Region 82 Avg IOU: 0.825219, Class: 0.998576, Obj: 0.843736, No Obj: 0.011054, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000468, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.001861, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.737882, Class: 0.988891, Obj: 0.747335, No Obj: 0.005837, .5R: 1.000000, .75R: 0.533333,  count: 15
+Region 106 Avg IOU: 0.746448, Class: 0.567586, Obj: 0.506522, No Obj: 0.000379, .5R: 1.000000, .75R: 0.500000,  count: 4
+44988: 1.156032, 0.789191 avg, 0.001000 rate, 0.161414 seconds, 179952 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.823099, Class: 0.995567, Obj: 0.557719, No Obj: 0.004055, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.735825, Class: 0.921448, Obj: 0.157015, No Obj: 0.000675, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.758670, Class: 0.836446, Obj: 0.851869, No Obj: 0.007499, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.761717, Class: 0.999792, Obj: 0.813853, No Obj: 0.001030, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.703893, Class: 0.987288, Obj: 0.578174, No Obj: 0.000241, .5R: 1.000000, .75R: 0.000000,  count: 1
+44989: 0.619152, 0.772187 avg, 0.001000 rate, 0.158228 seconds, 179956 images
+Loaded: 0.000599 seconds
+Region 82 Avg IOU: 0.695479, Class: 0.998462, Obj: 0.962306, No Obj: 0.002939, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.764710, Class: 0.988483, Obj: 0.732010, No Obj: 0.001779, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000033, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.863726, Class: 0.979163, Obj: 0.925925, No Obj: 0.002743, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.605098, Class: 0.963852, Obj: 0.939720, No Obj: 0.000418, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000018, .5R: -nan, .75R: -nan,  count: 0
+44990: 0.409975, 0.735966 avg, 0.001000 rate, 0.157481 seconds, 179960 images
+Resizing
+448
+Loaded: 0.000528 seconds
+Region 82 Avg IOU: 0.790130, Class: 0.996992, Obj: 0.874673, No Obj: 0.003115, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.869791, Class: 0.982419, Obj: 0.853400, No Obj: 0.006224, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.927187, Class: 0.969018, Obj: 0.139885, No Obj: 0.000157, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+44991: 0.240256, 0.686395 avg, 0.001000 rate, 0.163526 seconds, 179964 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.481822, Class: 0.998759, Obj: 0.973775, No Obj: 0.001948, .5R: 0.500000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.779190, Class: 0.834295, Obj: 0.608043, No Obj: 0.000905, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.755759, Class: 0.998913, Obj: 0.528763, No Obj: 0.005351, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 94 Avg IOU: 0.694632, Class: 0.999712, Obj: 0.738028, No Obj: 0.000892, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44992: 1.051271, 0.722883 avg, 0.001000 rate, 0.232422 seconds, 179968 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.811976, Class: 0.997817, Obj: 0.839461, No Obj: 0.004486, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.620975, Class: 0.984503, Obj: 0.572468, No Obj: 0.000188, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.827623, Class: 0.999739, Obj: 0.989089, No Obj: 0.001238, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.678899, Class: 0.997443, Obj: 0.775329, No Obj: 0.000792, .5R: 0.500000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44993: 0.422011, 0.692795 avg, 0.001000 rate, 0.231706 seconds, 179972 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.838215, Class: 0.998344, Obj: 0.947354, No Obj: 0.005316, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.809876, Class: 0.999591, Obj: 0.777353, No Obj: 0.002335, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: 0.664873, Class: 0.966857, Obj: 0.301635, No Obj: 0.000052, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.873736, Class: 0.995948, Obj: 0.960241, No Obj: 0.005245, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.688040, Class: 0.997606, Obj: 0.794762, No Obj: 0.001126, .5R: 0.800000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: 0.717542, Class: 0.997391, Obj: 0.854308, No Obj: 0.000274, .5R: 1.000000, .75R: 0.333333,  count: 3
+44994: 1.044084, 0.727924 avg, 0.001000 rate, 0.234954 seconds, 179976 images
+Loaded: 0.000368 seconds
+Region 82 Avg IOU: 0.828600, Class: 0.997004, Obj: 0.636586, No Obj: 0.005905, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.790404, Class: 0.997366, Obj: 0.660640, No Obj: 0.003712, .5R: 1.000000, .75R: 0.833333,  count: 12
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.798730, Class: 0.937474, Obj: 0.800338, No Obj: 0.006648, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.819510, Class: 0.984534, Obj: 0.802420, No Obj: 0.000747, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44995: 1.013192, 0.756451 avg, 0.001000 rate, 0.235033 seconds, 179980 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.837273, Class: 0.999119, Obj: 0.990264, No Obj: 0.002659, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.825722, Class: 0.996419, Obj: 0.801200, No Obj: 0.001900, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.814977, Class: 0.999030, Obj: 0.894539, No Obj: 0.003585, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44996: 0.170244, 0.697830 avg, 0.001000 rate, 0.232121 seconds, 179984 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.830268, Class: 0.878043, Obj: 0.676546, No Obj: 0.005383, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000084, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.819633, Class: 0.998063, Obj: 0.970273, No Obj: 0.003606, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44997: 0.328609, 0.660908 avg, 0.001000 rate, 0.231143 seconds, 179988 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.821204, Class: 0.994120, Obj: 0.984022, No Obj: 0.006095, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.778872, Class: 0.999665, Obj: 0.384696, No Obj: 0.000360, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.849238, Class: 0.996641, Obj: 0.969106, No Obj: 0.003702, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000036, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+44998: 0.214254, 0.616243 avg, 0.001000 rate, 0.232096 seconds, 179992 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.869072, Class: 0.908028, Obj: 0.920596, No Obj: 0.006708, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.855510, Class: 0.999466, Obj: 0.902816, No Obj: 0.000865, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: 0.823001, Class: 0.985900, Obj: 0.242896, No Obj: 0.000027, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.839465, Class: 0.984069, Obj: 0.738442, No Obj: 0.005814, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000079, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+44999: 0.407198, 0.595338 avg, 0.001000 rate, 0.232138 seconds, 179996 images
+Loaded: 0.000140 seconds
+Region 82 Avg IOU: 0.700084, Class: 0.999210, Obj: 0.688986, No Obj: 0.005186, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 94 Avg IOU: 0.846784, Class: 0.999524, Obj: 0.362585, No Obj: 0.000179, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000036, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.737062, Class: 0.993058, Obj: 0.890444, No Obj: 0.006140, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.654612, Class: 0.975987, Obj: 0.684052, No Obj: 0.001089, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan,  count: 0
+45000: 0.837864, 0.619591 avg, 0.001000 rate, 0.232964 seconds, 180000 images
+Saving weights to /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/yolov3/yolov3-voc-train.backup
+Resizing
+576
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.768377, Class: 0.996511, Obj: 0.920413, No Obj: 0.005272, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.899915, Class: 0.998780, Obj: 0.990404, No Obj: 0.000152, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.764895, Class: 0.998520, Obj: 0.817069, No Obj: 0.007962, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 94 Avg IOU: 0.832280, Class: 0.990508, Obj: 0.840673, No Obj: 0.000261, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.804363, Class: 0.994951, Obj: 0.528350, No Obj: 0.000037, .5R: 1.000000, .75R: 1.000000,  count: 1
+45001: 0.544100, 0.612042 avg, 0.001000 rate, 0.274641 seconds, 180004 images
+Loaded: 0.000536 seconds
+Region 82 Avg IOU: 0.766295, Class: 0.666243, Obj: 0.903000, No Obj: 0.003021, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.828152, Class: 0.990896, Obj: 0.777180, No Obj: 0.004048, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45002: 0.313566, 0.582194 avg, 0.001000 rate, 0.380753 seconds, 180008 images
+Loaded: 0.000083 seconds
+Region 82 Avg IOU: 0.800368, Class: 0.956791, Obj: 0.712227, No Obj: 0.008869, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.762372, Class: 0.824009, Obj: 0.813226, No Obj: 0.004386, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.595060, Class: 0.995900, Obj: 0.969942, No Obj: 0.000323, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45003: 0.918555, 0.615830 avg, 0.001000 rate, 0.385643 seconds, 180012 images
+Loaded: 0.000080 seconds
+Region 82 Avg IOU: 0.859715, Class: 0.997986, Obj: 0.932447, No Obj: 0.004172, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.565269, Class: 0.983730, Obj: 0.537093, No Obj: 0.000162, .5R: 0.500000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.755805, Class: 0.997801, Obj: 0.761272, No Obj: 0.002591, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.798617, Class: 0.998015, Obj: 0.689905, No Obj: 0.000390, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan,  count: 0
+45004: 0.645336, 0.618781 avg, 0.001000 rate, 0.384082 seconds, 180016 images
+Loaded: 0.000426 seconds
+Region 82 Avg IOU: 0.721038, Class: 0.898634, Obj: 0.755740, No Obj: 0.004070, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.825852, Class: 0.973271, Obj: 0.745123, No Obj: 0.003188, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45005: 0.294225, 0.586325 avg, 0.001000 rate, 0.384530 seconds, 180020 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.838657, Class: 0.987468, Obj: 0.643880, No Obj: 0.002433, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.821556, Class: 0.799175, Obj: 0.975512, No Obj: 0.003007, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.612309, Class: 0.980010, Obj: 0.752443, No Obj: 0.000311, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45006: 0.536588, 0.581352 avg, 0.001000 rate, 0.383051 seconds, 180024 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.805344, Class: 0.887202, Obj: 0.591377, No Obj: 0.002655, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.741701, Class: 0.813101, Obj: 0.435360, No Obj: 0.000815, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: 0.779685, Class: 0.998499, Obj: 0.177339, No Obj: 0.000064, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 82 Avg IOU: 0.789814, Class: 0.917937, Obj: 0.795174, No Obj: 0.002235, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45007: 0.960139, 0.619230 avg, 0.001000 rate, 0.386132 seconds, 180028 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.792565, Class: 0.981748, Obj: 0.656919, No Obj: 0.002724, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.876362, Class: 0.994263, Obj: 0.930382, No Obj: 0.002553, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45008: 0.078298, 0.565137 avg, 0.001000 rate, 0.383093 seconds, 180032 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: 0.791096, Class: 0.999140, Obj: 0.978968, No Obj: 0.001584, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.898810, Class: 0.839369, Obj: 0.249419, No Obj: 0.001049, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000044, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45009: 0.265712, 0.535195 avg, 0.001000 rate, 0.382426 seconds, 180036 images
+Loaded: 0.000050 seconds
+Region 82 Avg IOU: 0.827647, Class: 0.988533, Obj: 0.856572, No Obj: 0.001916, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.869678, Class: 0.997981, Obj: 0.978968, No Obj: 0.000257, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.633213, Class: 0.977420, Obj: 0.223142, No Obj: 0.000025, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.886668, Class: 0.987047, Obj: 0.801095, No Obj: 0.003567, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.805830, Class: 0.998748, Obj: 0.907049, No Obj: 0.000314, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45010: 0.337830, 0.515458 avg, 0.001000 rate, 0.383900 seconds, 180040 images
+Resizing
+576
+Loaded: 0.000050 seconds
+Region 82 Avg IOU: 0.791661, Class: 0.974599, Obj: 0.977902, No Obj: 0.003488, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.830905, Class: 0.981895, Obj: 0.785418, No Obj: 0.007055, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45011: 0.244042, 0.488316 avg, 0.001000 rate, 0.274963 seconds, 180044 images
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.864313, Class: 0.983225, Obj: 0.876419, No Obj: 0.003177, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.628930, Class: 0.997826, Obj: 0.372052, No Obj: 0.000063, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 82 Avg IOU: 0.802148, Class: 0.998606, Obj: 0.949583, No Obj: 0.001874, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45012: 0.347254, 0.474210 avg, 0.001000 rate, 0.383266 seconds, 180048 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.883702, Class: 0.994279, Obj: 0.538176, No Obj: 0.002276, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.781560, Class: 0.972455, Obj: 0.818143, No Obj: 0.004455, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.792429, Class: 0.998710, Obj: 0.749684, No Obj: 0.002727, .5R: 1.000000, .75R: 0.571429,  count: 14
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45013: 0.800739, 0.506863 avg, 0.001000 rate, 0.391203 seconds, 180052 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.803955, Class: 0.997333, Obj: 0.650800, No Obj: 0.003928, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.732834, Class: 0.999067, Obj: 0.327376, No Obj: 0.000094, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.750558, Class: 0.995989, Obj: 0.900773, No Obj: 0.007938, .5R: 1.000000, .75R: 0.500000,  count: 6
+Region 94 Avg IOU: 0.819090, Class: 0.998984, Obj: 0.819533, No Obj: 0.000862, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 106 Avg IOU: 0.771710, Class: 0.969985, Obj: 0.343196, No Obj: 0.000039, .5R: 1.000000, .75R: 1.000000,  count: 1
+45014: 0.857606, 0.541937 avg, 0.001000 rate, 0.387251 seconds, 180056 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.733003, Class: 0.995818, Obj: 0.960170, No Obj: 0.002144, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.721840, Class: 0.997655, Obj: 0.442487, No Obj: 0.000619, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.778864, Class: 0.948654, Obj: 0.235159, No Obj: 0.000040, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 82 Avg IOU: 0.866270, Class: 0.998951, Obj: 0.866840, No Obj: 0.002905, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.699819, Class: 0.999063, Obj: 0.369740, No Obj: 0.000429, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45015: 0.976207, 0.585364 avg, 0.001000 rate, 0.386880 seconds, 180060 images
+Loaded: 0.000035 seconds
+Region 82 Avg IOU: 0.819551, Class: 0.943490, Obj: 0.819161, No Obj: 0.002859, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.756664, Class: 0.999158, Obj: 0.567076, No Obj: 0.000678, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.782912, Class: 0.935353, Obj: 0.502197, No Obj: 0.001694, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45016: 0.542426, 0.581070 avg, 0.001000 rate, 0.385125 seconds, 180064 images
+Loaded: 0.000508 seconds
+Region 82 Avg IOU: 0.834228, Class: 0.998633, Obj: 0.916337, No Obj: 0.002687, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.709488, Class: 0.898943, Obj: 0.682228, No Obj: 0.003598, .5R: 0.666667, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.832152, Class: 0.904106, Obj: 0.258281, No Obj: 0.000071, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45017: 0.507122, 0.573676 avg, 0.001000 rate, 0.383000 seconds, 180068 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.845431, Class: 0.897622, Obj: 0.944328, No Obj: 0.002668, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.855578, Class: 0.985759, Obj: 0.509807, No Obj: 0.004025, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.880221, Class: 0.999301, Obj: 0.925883, No Obj: 0.000344, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.747004, Class: 0.999671, Obj: 0.344796, No Obj: 0.000039, .5R: 1.000000, .75R: 0.000000,  count: 1
+45018: 0.353641, 0.551672 avg, 0.001000 rate, 0.384093 seconds, 180072 images
+Loaded: 0.000059 seconds
+Region 82 Avg IOU: 0.836265, Class: 0.975731, Obj: 0.772249, No Obj: 0.004512, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.835398, Class: 0.999957, Obj: 0.961093, No Obj: 0.000272, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.760761, Class: 0.994520, Obj: 0.914883, No Obj: 0.003796, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45019: 0.334462, 0.529951 avg, 0.001000 rate, 0.383865 seconds, 180076 images
+Loaded: 0.000434 seconds
+Region 82 Avg IOU: 0.814236, Class: 0.997427, Obj: 0.482606, No Obj: 0.001987, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000104, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.746794, Class: 0.939373, Obj: 0.499680, No Obj: 0.001917, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45020: 0.350902, 0.512046 avg, 0.001000 rate, 0.382173 seconds, 180080 images
+Resizing
+576
+Loaded: 0.000333 seconds
+Region 82 Avg IOU: 0.844456, Class: 0.989576, Obj: 0.902880, No Obj: 0.006414, .5R: 1.000000, .75R: 0.857143,  count: 7
+Region 94 Avg IOU: 0.669182, Class: 0.995256, Obj: 0.467404, No Obj: 0.000262, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.754921, Class: 0.998838, Obj: 0.862982, No Obj: 0.003947, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 94 Avg IOU: 0.790450, Class: 0.992283, Obj: 0.581980, No Obj: 0.000424, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+45021: 0.699306, 0.530772 avg, 0.001000 rate, 0.279653 seconds, 180084 images
+Loaded: 0.000086 seconds
+Region 82 Avg IOU: 0.646448, Class: 0.885807, Obj: 0.696123, No Obj: 0.001795, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.665351, Class: 0.808973, Obj: 0.588875, No Obj: 0.000436, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.743550, Class: 0.994595, Obj: 0.647164, No Obj: 0.002636, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45022: 0.761639, 0.553859 avg, 0.001000 rate, 0.384580 seconds, 180088 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: 0.867069, Class: 0.996541, Obj: 0.948885, No Obj: 0.005537, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.803125, Class: 0.979649, Obj: 0.722474, No Obj: 0.004690, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45023: 0.424147, 0.540888 avg, 0.001000 rate, 0.383542 seconds, 180092 images
+Loaded: 0.000453 seconds
+Region 82 Avg IOU: 0.854041, Class: 0.974908, Obj: 0.799579, No Obj: 0.005400, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.799367, Class: 0.917420, Obj: 0.786322, No Obj: 0.003924, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45024: 0.320704, 0.518869 avg, 0.001000 rate, 0.383122 seconds, 180096 images
+Loaded: 0.000084 seconds
+Region 82 Avg IOU: 0.806626, Class: 0.964084, Obj: 0.590462, No Obj: 0.006007, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: 0.785253, Class: 0.996563, Obj: 0.538849, No Obj: 0.000799, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.870691, Class: 0.705468, Obj: 0.668697, No Obj: 0.004419, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.744138, Class: 0.999004, Obj: 0.962988, No Obj: 0.000410, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+45025: 0.946214, 0.561604 avg, 0.001000 rate, 0.388315 seconds, 180100 images
+Loaded: 0.000447 seconds
+Region 82 Avg IOU: 0.838096, Class: 0.986700, Obj: 0.704364, No Obj: 0.003320, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.666076, Class: 0.998874, Obj: 0.960608, No Obj: 0.000216, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.810805, Class: 0.999643, Obj: 0.961942, No Obj: 0.002221, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.720238, Class: 0.997792, Obj: 0.841264, No Obj: 0.000604, .5R: 1.000000, .75R: 0.000000,  count: 4
+Region 106 Avg IOU: 0.813652, Class: 0.998864, Obj: 0.745741, No Obj: 0.000032, .5R: 1.000000, .75R: 1.000000,  count: 1
+45026: 0.471342, 0.552578 avg, 0.001000 rate, 0.384616 seconds, 180104 images
+Loaded: 0.000678 seconds
+Region 82 Avg IOU: 0.706915, Class: 0.959586, Obj: 0.737899, No Obj: 0.003964, .5R: 1.000000, .75R: 0.142857,  count: 7
+Region 94 Avg IOU: 0.810752, Class: 0.999575, Obj: 0.604274, No Obj: 0.000577, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.837208, Class: 0.997246, Obj: 0.841184, No Obj: 0.006439, .5R: 1.000000, .75R: 1.000000,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45027: 0.807393, 0.578059 avg, 0.001000 rate, 0.387133 seconds, 180108 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.889193, Class: 0.998075, Obj: 0.808093, No Obj: 0.003548, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.790027, Class: 0.987300, Obj: 0.917255, No Obj: 0.005429, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.852054, Class: 0.993617, Obj: 0.885598, No Obj: 0.000888, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45028: 0.290122, 0.549266 avg, 0.001000 rate, 0.385050 seconds, 180112 images
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.632563, Class: 0.871560, Obj: 0.666120, No Obj: 0.004296, .5R: 0.833333, .75R: 0.333333,  count: 6
+Region 94 Avg IOU: 0.807522, Class: 0.992797, Obj: 0.440367, No Obj: 0.001308, .5R: 1.000000, .75R: 0.714286,  count: 7
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.815933, Class: 0.992433, Obj: 0.162725, No Obj: 0.002155, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45029: 1.554746, 0.649814 avg, 0.001000 rate, 0.387162 seconds, 180116 images
+Loaded: 0.000614 seconds
+Region 82 Avg IOU: 0.866869, Class: 0.908951, Obj: 0.947404, No Obj: 0.002773, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.779277, Class: 0.977723, Obj: 0.891250, No Obj: 0.005465, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.674691, Class: 0.999934, Obj: 0.128024, No Obj: 0.000124, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45030: 0.394327, 0.624265 avg, 0.001000 rate, 0.384020 seconds, 180120 images
+Resizing
+352
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.702780, Class: 0.995915, Obj: 0.694707, No Obj: 0.005351, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000099, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.640716, Class: 0.997278, Obj: 0.551932, No Obj: 0.000414, .5R: 1.000000, .75R: 0.000000,  count: 5
+Region 82 Avg IOU: 0.728297, Class: 0.985727, Obj: 0.716822, No Obj: 0.008400, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.733374, Class: 0.962611, Obj: 0.265406, No Obj: 0.001085, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+45031: 1.177537, 0.679592 avg, 0.001000 rate, 0.111706 seconds, 180124 images
+Loaded: 0.000413 seconds
+Region 82 Avg IOU: 0.844784, Class: 0.999632, Obj: 0.873461, No Obj: 0.009651, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.808849, Class: 0.985652, Obj: 0.659606, No Obj: 0.004456, .5R: 1.000000, .75R: 0.571429,  count: 7
+Region 106 Avg IOU: 0.739090, Class: 0.862513, Obj: 0.332750, No Obj: 0.000081, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.826247, Class: 0.967339, Obj: 0.889059, No Obj: 0.008391, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000439, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45032: 0.765602, 0.688193 avg, 0.001000 rate, 0.159279 seconds, 180128 images
+Loaded: 0.000402 seconds
+Region 82 Avg IOU: 0.797293, Class: 0.996621, Obj: 0.930380, No Obj: 0.009460, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.839069, Class: 0.998704, Obj: 0.903295, No Obj: 0.001517, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.836275, Class: 0.994554, Obj: 0.906792, No Obj: 0.007648, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45033: 0.258205, 0.645194 avg, 0.001000 rate, 0.157798 seconds, 180132 images
+Loaded: 0.000027 seconds
+Region 82 Avg IOU: 0.696801, Class: 0.984071, Obj: 0.564559, No Obj: 0.005470, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.689942, Class: 0.996724, Obj: 0.695869, No Obj: 0.002003, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.774436, Class: 0.944287, Obj: 0.036878, No Obj: 0.002114, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.700373, Class: 0.999615, Obj: 0.477401, No Obj: 0.001138, .5R: 0.666667, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.782284, Class: 0.996768, Obj: 0.111462, No Obj: 0.000024, .5R: 1.000000, .75R: 1.000000,  count: 1
+45034: 1.141947, 0.694870 avg, 0.001000 rate, 0.160099 seconds, 180136 images
+Loaded: 0.000047 seconds
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000974, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.493301, Class: 0.938670, Obj: 0.910576, No Obj: 0.000791, .5R: 0.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.643599, Class: 0.970826, Obj: 0.515149, No Obj: 0.000206, .5R: 0.666667, .75R: 0.666667,  count: 3
+Region 82 Avg IOU: 0.687387, Class: 0.993329, Obj: 0.992715, No Obj: 0.004303, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.813334, Class: 0.988635, Obj: 0.535159, No Obj: 0.001486, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 106 Avg IOU: 0.779185, Class: 0.930681, Obj: 0.714789, No Obj: 0.000079, .5R: 1.000000, .75R: 1.000000,  count: 1
+45035: 0.975522, 0.722935 avg, 0.001000 rate, 0.158464 seconds, 180140 images
+Loaded: 0.000072 seconds
+Region 82 Avg IOU: 0.792016, Class: 0.997203, Obj: 0.921331, No Obj: 0.004749, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.807732, Class: 0.992252, Obj: 0.968361, No Obj: 0.004418, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000057, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.678863, Class: 0.116235, Obj: 0.002183, No Obj: 0.000032, .5R: 1.000000, .75R: 0.000000,  count: 1
+45036: 0.288499, 0.679491 avg, 0.001000 rate, 0.157540 seconds, 180144 images
+Loaded: 0.000639 seconds
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.001111, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.693246, Class: 0.832949, Obj: 0.634788, No Obj: 0.002621, .5R: 0.833333, .75R: 0.500000,  count: 6
+Region 106 Avg IOU: 0.700803, Class: 0.508272, Obj: 0.659193, No Obj: 0.000642, .5R: 1.000000, .75R: 0.250000,  count: 4
+Region 82 Avg IOU: 0.746655, Class: 0.994687, Obj: 0.982349, No Obj: 0.004329, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45037: 1.135418, 0.725084 avg, 0.001000 rate, 0.158045 seconds, 180148 images
+Loaded: 0.000401 seconds
+Region 82 Avg IOU: 0.817562, Class: 0.995317, Obj: 0.788504, No Obj: 0.004258, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000047, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.651722, Class: 0.990105, Obj: 0.977696, No Obj: 0.002614, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.725236, Class: 0.980815, Obj: 0.726822, No Obj: 0.001507, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000028, .5R: -nan, .75R: -nan,  count: 0
+45038: 0.251846, 0.677760 avg, 0.001000 rate, 0.157454 seconds, 180152 images
+Loaded: 0.000406 seconds
+Region 82 Avg IOU: 0.773803, Class: 0.668243, Obj: 0.650808, No Obj: 0.005451, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.566825, Class: 0.996052, Obj: 0.767315, No Obj: 0.000787, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.855945, Class: 0.999784, Obj: 0.866801, No Obj: 0.005313, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.711806, Class: 0.999050, Obj: 0.643289, No Obj: 0.000542, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45039: 0.569034, 0.666888 avg, 0.001000 rate, 0.157632 seconds, 180156 images
+Loaded: 0.000132 seconds
+Region 82 Avg IOU: 0.755549, Class: 0.995572, Obj: 0.583850, No Obj: 0.010087, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 94 Avg IOU: 0.766858, Class: 0.867728, Obj: 0.500042, No Obj: 0.004781, .5R: 1.000000, .75R: 0.642857,  count: 14
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.920139, Class: 0.996775, Obj: 0.984307, No Obj: 0.004681, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+45040: 1.481925, 0.748391 avg, 0.001000 rate, 0.160116 seconds, 180160 images
+Resizing
+416
+Loaded: 0.000438 seconds
+Region 82 Avg IOU: 0.768215, Class: 0.720876, Obj: 0.722117, No Obj: 0.004409, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.723129, Class: 0.994776, Obj: 0.501641, No Obj: 0.000579, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.806409, Class: 0.996934, Obj: 0.810537, No Obj: 0.003094, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.720357, Class: 0.999436, Obj: 0.747309, No Obj: 0.001441, .5R: 1.000000, .75R: 0.500000,  count: 6
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000024, .5R: -nan, .75R: -nan,  count: 0
+45041: 0.669904, 0.740543 avg, 0.001000 rate, 0.149817 seconds, 180164 images
+Loaded: 0.000466 seconds
+Region 82 Avg IOU: 0.824341, Class: 0.994520, Obj: 0.603723, No Obj: 0.003247, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.801040, Class: 0.998332, Obj: 0.556166, No Obj: 0.000602, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.803787, Class: 0.991072, Obj: 0.941580, No Obj: 0.000128, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.765560, Class: 0.996551, Obj: 0.741353, No Obj: 0.003117, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45042: 0.279534, 0.694442 avg, 0.001000 rate, 0.210234 seconds, 180168 images
+Loaded: 0.000031 seconds
+Region 82 Avg IOU: 0.740429, Class: 0.998238, Obj: 0.521172, No Obj: 0.002979, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.793315, Class: 0.990621, Obj: 0.606435, No Obj: 0.000439, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.808838, Class: 0.885694, Obj: 0.891924, No Obj: 0.002975, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.692930, Class: 0.998742, Obj: 0.944401, No Obj: 0.000501, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45043: 0.287692, 0.653767 avg, 0.001000 rate, 0.210734 seconds, 180172 images
+Loaded: 0.000033 seconds
+Region 82 Avg IOU: 0.734154, Class: 0.992517, Obj: 0.668842, No Obj: 0.002102, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: 0.847013, Class: 0.994184, Obj: 0.882093, No Obj: 0.000664, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.827928, Class: 0.997891, Obj: 0.847363, No Obj: 0.004335, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.653018, Class: 0.999301, Obj: 0.704071, No Obj: 0.001226, .5R: 0.800000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: 0.637777, Class: 0.998384, Obj: 0.409425, No Obj: 0.000110, .5R: 1.000000, .75R: 0.000000,  count: 1
+45044: 0.678681, 0.656258 avg, 0.001000 rate, 0.213901 seconds, 180176 images
+Loaded: 0.000048 seconds
+Region 82 Avg IOU: 0.601523, Class: 0.997813, Obj: 0.946521, No Obj: 0.001233, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.821139, Class: 0.994784, Obj: 0.361404, No Obj: 0.000603, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.772362, Class: 0.986501, Obj: 0.236828, No Obj: 0.000246, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 82 Avg IOU: 0.819955, Class: 0.998724, Obj: 0.769184, No Obj: 0.004069, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.842461, Class: 0.898143, Obj: 0.761004, No Obj: 0.001120, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 106 Avg IOU: 0.537704, Class: 0.986623, Obj: 0.014603, No Obj: 0.000006, .5R: 1.000000, .75R: 0.000000,  count: 1
+45045: 1.016225, 0.692255 avg, 0.001000 rate, 0.212594 seconds, 180180 images
+Loaded: 0.000499 seconds
+Region 82 Avg IOU: 0.787989, Class: 0.999103, Obj: 0.960173, No Obj: 0.007414, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.691174, Class: 0.983015, Obj: 0.713204, No Obj: 0.000547, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.773141, Class: 0.971372, Obj: 0.473313, No Obj: 0.000067, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 82 Avg IOU: 0.792284, Class: 0.999905, Obj: 0.942836, No Obj: 0.002468, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.763044, Class: 0.985402, Obj: 0.664147, No Obj: 0.001441, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: 0.799381, Class: 0.988362, Obj: 0.027150, No Obj: 0.000016, .5R: 1.000000, .75R: 1.000000,  count: 1
+45046: 0.555886, 0.678618 avg, 0.001000 rate, 0.211056 seconds, 180184 images
+Loaded: 0.000441 seconds
+Region 82 Avg IOU: 0.761234, Class: 0.793193, Obj: 0.876899, No Obj: 0.002943, .5R: 0.666667, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.775675, Class: 0.880131, Obj: 0.690297, No Obj: 0.000940, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.776209, Class: 0.997497, Obj: 0.858243, No Obj: 0.006629, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.786935, Class: 0.995234, Obj: 0.407825, No Obj: 0.001047, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+45047: 0.640567, 0.674813 avg, 0.001000 rate, 0.211397 seconds, 180188 images
+Loaded: 0.000404 seconds
+Region 82 Avg IOU: 0.698126, Class: 0.989195, Obj: 0.492197, No Obj: 0.003148, .5R: 0.800000, .75R: 0.400000,  count: 5
+Region 94 Avg IOU: 0.770349, Class: 0.984140, Obj: 0.879456, No Obj: 0.001754, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.702145, Class: 0.992791, Obj: 0.158021, No Obj: 0.000094, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.801967, Class: 0.962745, Obj: 0.379166, No Obj: 0.007642, .5R: 1.000000, .75R: 0.857143,  count: 7
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000510, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+45048: 1.173209, 0.724652 avg, 0.001000 rate, 0.212348 seconds, 180192 images
+Loaded: 0.000494 seconds
+Region 82 Avg IOU: 0.698569, Class: 0.987315, Obj: 0.905226, No Obj: 0.001276, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.622749, Class: 0.946936, Obj: 0.512445, No Obj: 0.000100, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 82 Avg IOU: 0.704280, Class: 0.999826, Obj: 0.740598, No Obj: 0.004395, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45049: 0.264494, 0.678637 avg, 0.001000 rate, 0.210939 seconds, 180196 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.792145, Class: 0.999428, Obj: 0.656606, No Obj: 0.005502, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000346, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.653794, Class: 0.994207, Obj: 0.739135, No Obj: 0.000126, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 82 Avg IOU: 0.857549, Class: 0.999135, Obj: 0.929632, No Obj: 0.002258, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45050: 0.313655, 0.642139 avg, 0.001000 rate, 0.210828 seconds, 180200 images
+Resizing
+384
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.778111, Class: 0.944249, Obj: 0.453528, No Obj: 0.004459, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000375, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.770134, Class: 0.999357, Obj: 0.482226, No Obj: 0.003348, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45051: 0.525700, 0.630495 avg, 0.001000 rate, 0.124352 seconds, 180204 images
+Loaded: 0.000040 seconds
+Region 82 Avg IOU: 0.800017, Class: 0.995840, Obj: 0.874071, No Obj: 0.008791, .5R: 1.000000, .75R: 0.800000,  count: 5
+Region 94 Avg IOU: 0.771066, Class: 0.998251, Obj: 0.847994, No Obj: 0.001035, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.749257, Class: 0.995070, Obj: 0.809825, No Obj: 0.004390, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45052: 0.455878, 0.613033 avg, 0.001000 rate, 0.179109 seconds, 180208 images
+Loaded: 0.000027 seconds
+Region 82 Avg IOU: 0.802237, Class: 0.861324, Obj: 0.584638, No Obj: 0.005253, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.736386, Class: 0.958467, Obj: 0.588587, No Obj: 0.002881, .5R: 1.000000, .75R: 0.428571,  count: 7
+Region 106 Avg IOU: 0.644433, Class: 0.993202, Obj: 0.077966, No Obj: 0.000013, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 82 Avg IOU: 0.805787, Class: 0.992491, Obj: 0.789802, No Obj: 0.013816, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45053: 1.196596, 0.671389 avg, 0.001000 rate, 0.180463 seconds, 180212 images
+Loaded: 0.000027 seconds
+Region 82 Avg IOU: 0.820860, Class: 0.437976, Obj: 0.995366, No Obj: 0.002819, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.725457, Class: 0.994830, Obj: 0.645231, No Obj: 0.001229, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.734444, Class: 0.995137, Obj: 0.402334, No Obj: 0.004314, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.785233, Class: 0.996806, Obj: 0.783110, No Obj: 0.000462, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.541337, Class: 0.951978, Obj: 0.586765, No Obj: 0.000076, .5R: 1.000000, .75R: 0.000000,  count: 1
+45054: 0.608036, 0.665054 avg, 0.001000 rate, 0.180396 seconds, 180216 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.909647, Class: 0.998115, Obj: 0.906917, No Obj: 0.007113, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.852952, Class: 0.999522, Obj: 0.982966, No Obj: 0.005409, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45055: 0.167972, 0.615346 avg, 0.001000 rate, 0.178334 seconds, 180220 images
+Loaded: 0.000414 seconds
+Region 82 Avg IOU: 0.802121, Class: 0.999698, Obj: 0.952308, No Obj: 0.011097, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.708283, Class: 0.963010, Obj: 0.015702, No Obj: 0.000190, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.878993, Class: 0.996413, Obj: 0.930028, No Obj: 0.005243, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.734760, Class: 0.998490, Obj: 0.658961, No Obj: 0.001200, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: 0.780462, Class: 0.997703, Obj: 0.611108, No Obj: 0.000047, .5R: 1.000000, .75R: 1.000000,  count: 1
+45056: 0.502444, 0.604056 avg, 0.001000 rate, 0.179420 seconds, 180224 images
+Loaded: 0.000026 seconds
+Region 82 Avg IOU: 0.885868, Class: 0.982917, Obj: 0.783132, No Obj: 0.005121, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.758125, Class: 0.996655, Obj: 0.799963, No Obj: 0.000485, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.754973, Class: 0.696960, Obj: 0.214380, No Obj: 0.000059, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.757546, Class: 0.964657, Obj: 0.863829, No Obj: 0.006618, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45057: 0.295397, 0.573190 avg, 0.001000 rate, 0.178861 seconds, 180228 images
+Loaded: 0.000565 seconds
+Region 82 Avg IOU: 0.816545, Class: 0.947470, Obj: 0.860122, No Obj: 0.005424, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.859100, Class: 0.999891, Obj: 0.713009, No Obj: 0.000530, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.882051, Class: 0.998753, Obj: 0.287778, No Obj: 0.000047, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.731712, Class: 0.836357, Obj: 0.710942, No Obj: 0.013570, .5R: 0.833333, .75R: 0.333333,  count: 6
+Region 94 Avg IOU: 0.771537, Class: 0.997498, Obj: 0.826021, No Obj: 0.000735, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan,  count: 0
+45058: 0.668913, 0.582762 avg, 0.001000 rate, 0.179122 seconds, 180232 images
+Loaded: 0.000025 seconds
+Region 82 Avg IOU: 0.795372, Class: 0.986405, Obj: 0.496511, No Obj: 0.003067, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.780521, Class: 0.982774, Obj: 0.622334, No Obj: 0.006662, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.816927, Class: 0.998882, Obj: 0.977183, No Obj: 0.000358, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45059: 0.237953, 0.548281 avg, 0.001000 rate, 0.179107 seconds, 180236 images
+Loaded: 0.000033 seconds
+Region 82 Avg IOU: 0.858227, Class: 0.999770, Obj: 0.981227, No Obj: 0.006032, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000253, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.723516, Class: 0.999489, Obj: 0.898787, No Obj: 0.000895, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: 0.629203, Class: 0.958157, Obj: 0.772055, No Obj: 0.000162, .5R: 1.000000, .75R: 0.000000,  count: 1
+45060: 0.225725, 0.516026 avg, 0.001000 rate, 0.180376 seconds, 180240 images
+Resizing
+544
+Loaded: 0.000053 seconds
+Region 82 Avg IOU: 0.854960, Class: 0.981323, Obj: 0.944408, No Obj: 0.002575, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.715387, Class: 0.968489, Obj: 0.542253, No Obj: 0.000557, .5R: 1.000000, .75R: 0.166667,  count: 6
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.902126, Class: 0.993715, Obj: 0.847256, No Obj: 0.004999, .5R: 1.000000, .75R: 1.000000,  count: 4
+Region 94 Avg IOU: 0.616251, Class: 0.959695, Obj: 0.896823, No Obj: 0.000141, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45061: 0.517343, 0.516157 avg, 0.001000 rate, 0.259198 seconds, 180244 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.819807, Class: 0.990734, Obj: 0.842750, No Obj: 0.005042, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000131, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.635538, Class: 0.998650, Obj: 0.522187, No Obj: 0.000462, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 94 Avg IOU: 0.758726, Class: 0.920029, Obj: 0.744873, No Obj: 0.000543, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+45062: 0.451739, 0.509715 avg, 0.001000 rate, 0.357895 seconds, 180248 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.803764, Class: 0.999581, Obj: 0.962476, No Obj: 0.001599, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.801646, Class: 0.988029, Obj: 0.640701, No Obj: 0.000432, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.827113, Class: 0.999031, Obj: 0.971761, No Obj: 0.004040, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.719503, Class: 0.951960, Obj: 0.462953, No Obj: 0.000175, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+45063: 0.434276, 0.502171 avg, 0.001000 rate, 0.357037 seconds, 180252 images
+Loaded: 0.000043 seconds
+Region 82 Avg IOU: 0.732996, Class: 0.998950, Obj: 0.661219, No Obj: 0.002081, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.868823, Class: 0.994939, Obj: 0.906177, No Obj: 0.002100, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000071, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+45064: 0.187158, 0.470670 avg, 0.001000 rate, 0.356563 seconds, 180256 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: 0.879530, Class: 0.963226, Obj: 0.934595, No Obj: 0.001646, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.827249, Class: 0.734230, Obj: 0.029178, No Obj: 0.000024, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.811519, Class: 0.997703, Obj: 0.782268, No Obj: 0.003794, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000040, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan,  count: 0
+45065: 0.361676, 0.459771 avg, 0.001000 rate, 0.357036 seconds, 180260 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.777794, Class: 0.945924, Obj: 0.708914, No Obj: 0.007018, .5R: 1.000000, .75R: 0.857143,  count: 7
+Region 94 Avg IOU: 0.756433, Class: 0.993751, Obj: 0.276795, No Obj: 0.000448, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.776445, Class: 0.988704, Obj: 0.003565, No Obj: 0.000014, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.816395, Class: 0.991806, Obj: 0.830952, No Obj: 0.009554, .5R: 1.000000, .75R: 0.714286,  count: 7
+Region 94 Avg IOU: 0.780627, Class: 0.997284, Obj: 0.508203, No Obj: 0.000608, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45066: 1.280265, 0.541820 avg, 0.001000 rate, 0.362953 seconds, 180264 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.778405, Class: 0.995979, Obj: 0.942331, No Obj: 0.003261, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.580796, Class: 0.996861, Obj: 0.487625, No Obj: 0.000313, .5R: 0.666667, .75R: 0.333333,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.806168, Class: 0.994190, Obj: 0.973694, No Obj: 0.000580, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.776632, Class: 0.998313, Obj: 0.867409, No Obj: 0.000393, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.647878, Class: 0.997988, Obj: 0.544515, No Obj: 0.000102, .5R: 1.000000, .75R: 0.000000,  count: 2
+45067: 0.782092, 0.565847 avg, 0.001000 rate, 0.358138 seconds, 180268 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.785142, Class: 0.999440, Obj: 0.852605, No Obj: 0.006021, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: 0.785815, Class: 0.991892, Obj: 0.084585, No Obj: 0.000322, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.746747, Class: 0.997177, Obj: 0.753142, No Obj: 0.003118, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000035, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.837410, Class: 0.966759, Obj: 0.947339, No Obj: 0.000054, .5R: 1.000000, .75R: 1.000000,  count: 1
+45068: 0.692545, 0.578517 avg, 0.001000 rate, 0.359182 seconds, 180272 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.842766, Class: 0.999510, Obj: 0.944311, No Obj: 0.005351, .5R: 1.000000, .75R: 1.000000,  count: 5
+Region 94 Avg IOU: 0.804309, Class: 0.980514, Obj: 0.549724, No Obj: 0.000386, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.731126, Class: 0.995510, Obj: 0.971759, No Obj: 0.002260, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45069: 0.327435, 0.553409 avg, 0.001000 rate, 0.356744 seconds, 180276 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.779059, Class: 0.996079, Obj: 0.817533, No Obj: 0.006247, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: 0.677807, Class: 0.998652, Obj: 0.769815, No Obj: 0.001147, .5R: 1.000000, .75R: 0.333333,  count: 6
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.923246, Class: 0.998564, Obj: 0.980698, No Obj: 0.002308, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45070: 0.878624, 0.585930 avg, 0.001000 rate, 0.359625 seconds, 180280 images
+Resizing
+608
+Loaded: 0.000349 seconds
+Region 82 Avg IOU: 0.787975, Class: 0.995792, Obj: 0.701323, No Obj: 0.006251, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.730798, Class: 0.996778, Obj: 0.581903, No Obj: 0.002269, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000034, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45071: 0.636387, 0.590976 avg, 0.001000 rate, 0.297080 seconds, 180284 images
+Loaded: 0.000427 seconds
+Region 82 Avg IOU: 0.844884, Class: 0.994726, Obj: 0.627970, No Obj: 0.002827, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.698453, Class: 0.993254, Obj: 0.569494, No Obj: 0.003119, .5R: 0.750000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45072: 0.468723, 0.578751 avg, 0.001000 rate, 0.414215 seconds, 180288 images
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.827939, Class: 0.980921, Obj: 0.226968, No Obj: 0.001699, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.739747, Class: 0.998260, Obj: 0.991395, No Obj: 0.001418, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45073: 0.413934, 0.562269 avg, 0.001000 rate, 0.412591 seconds, 180292 images
+Loaded: 0.000512 seconds
+Region 82 Avg IOU: 0.770654, Class: 0.739442, Obj: 0.580472, No Obj: 0.001625, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.588628, Class: 0.998078, Obj: 0.978992, No Obj: 0.000240, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.821411, Class: 0.967648, Obj: 0.798037, No Obj: 0.003608, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000023, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45074: 0.521431, 0.558185 avg, 0.001000 rate, 0.413892 seconds, 180296 images
+Loaded: 0.000052 seconds
+Region 82 Avg IOU: 0.851800, Class: 0.935521, Obj: 0.482268, No Obj: 0.002873, .5R: 1.000000, .75R: 1.000000,  count: 6
+Region 94 Avg IOU: 0.726641, Class: 0.999808, Obj: 0.699867, No Obj: 0.000421, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.767104, Class: 0.860701, Obj: 0.400104, No Obj: 0.002475, .5R: 1.000000, .75R: 0.833333,  count: 6
+Region 94 Avg IOU: 0.873450, Class: 0.999238, Obj: 0.802266, No Obj: 0.000119, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45075: 1.110608, 0.613428 avg, 0.001000 rate, 0.418144 seconds, 180300 images
+Loaded: 0.000436 seconds
+Region 82 Avg IOU: 0.854651, Class: 0.999068, Obj: 0.956796, No Obj: 0.002845, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.776649, Class: 0.999057, Obj: 0.504643, No Obj: 0.001894, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.577156, Class: 0.996978, Obj: 0.304742, No Obj: 0.000062, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45076: 0.306219, 0.582707 avg, 0.001000 rate, 0.412441 seconds, 180304 images
+Loaded: 0.000049 seconds
+Region 82 Avg IOU: 0.786379, Class: 0.996918, Obj: 0.967699, No Obj: 0.003414, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.850578, Class: 0.995126, Obj: 0.979522, No Obj: 0.003598, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45077: 0.104273, 0.534863 avg, 0.001000 rate, 0.416525 seconds, 180308 images
+Loaded: 0.000044 seconds
+Region 82 Avg IOU: 0.685136, Class: 0.864689, Obj: 0.427071, No Obj: 0.002038, .5R: 1.000000, .75R: 0.000000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000273, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.747003, Class: 0.887094, Obj: 0.830388, No Obj: 0.002436, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45078: 0.447025, 0.526080 avg, 0.001000 rate, 0.413170 seconds, 180312 images
+Loaded: 0.000045 seconds
+Region 82 Avg IOU: 0.827160, Class: 0.962773, Obj: 0.952689, No Obj: 0.002827, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.850577, Class: 0.956193, Obj: 0.553712, No Obj: 0.000105, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.803465, Class: 0.990400, Obj: 0.732049, No Obj: 0.004145, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45079: 0.280168, 0.501488 avg, 0.001000 rate, 0.413746 seconds, 180316 images
+Loaded: 0.000455 seconds
+Region 82 Avg IOU: 0.823584, Class: 0.989364, Obj: 0.937823, No Obj: 0.001853, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.805506, Class: 0.998824, Obj: 0.698442, No Obj: 0.004993, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45080: 0.425924, 0.493932 avg, 0.001000 rate, 0.414838 seconds, 180320 images
+Resizing
+448
+Loaded: 0.000350 seconds
+Region 82 Avg IOU: 0.780651, Class: 0.999112, Obj: 0.892936, No Obj: 0.005222, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.759069, Class: 0.969720, Obj: 0.534264, No Obj: 0.003736, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45081: 0.355672, 0.480106 avg, 0.001000 rate, 0.163122 seconds, 180324 images
+Loaded: 0.000036 seconds
+Region 82 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan,  count: 0
+Region 94 Avg IOU: 0.585174, Class: 0.987872, Obj: 0.750475, No Obj: 0.000384, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.722468, Class: 0.905940, Obj: 0.672060, No Obj: 0.000238, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 82 Avg IOU: 0.785559, Class: 0.967642, Obj: 0.683680, No Obj: 0.002458, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.669612, Class: 0.986983, Obj: 0.544610, No Obj: 0.000060, .5R: 1.000000, .75R: 0.000000,  count: 1
+45082: 0.572782, 0.489374 avg, 0.001000 rate, 0.233039 seconds, 180328 images
+Loaded: 0.000034 seconds
+Region 82 Avg IOU: 0.842677, Class: 0.998133, Obj: 0.946594, No Obj: 0.004858, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.858226, Class: 0.992987, Obj: 0.539922, No Obj: 0.001337, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.755803, Class: 0.919485, Obj: 0.863870, No Obj: 0.001052, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: 0.513968, Class: 0.291351, Obj: 0.004942, No Obj: 0.000065, .5R: 1.000000, .75R: 0.000000,  count: 1
+45083: 0.515097, 0.491946 avg, 0.001000 rate, 0.231463 seconds, 180332 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.812168, Class: 0.992512, Obj: 0.919012, No Obj: 0.004822, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.684943, Class: 0.999838, Obj: 0.828323, No Obj: 0.000233, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.868883, Class: 0.999152, Obj: 0.891406, No Obj: 0.005969, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45084: 0.281446, 0.470896 avg, 0.001000 rate, 0.231044 seconds, 180336 images
+Loaded: 0.000038 seconds
+Region 82 Avg IOU: 0.863584, Class: 0.998819, Obj: 0.948423, No Obj: 0.006891, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: 0.748275, Class: 0.998929, Obj: 0.783266, No Obj: 0.001772, .5R: 1.000000, .75R: 0.400000,  count: 5
+Region 106 Avg IOU: 0.668285, Class: 0.994078, Obj: 0.419484, No Obj: 0.000044, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 82 Avg IOU: 0.627609, Class: 0.997869, Obj: 0.966384, No Obj: 0.002344, .5R: 0.500000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.760400, Class: 0.998958, Obj: 0.606535, No Obj: 0.001538, .5R: 1.000000, .75R: 0.600000,  count: 5
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45085: 0.978244, 0.521631 avg, 0.001000 rate, 0.234143 seconds, 180340 images
+Loaded: 0.000037 seconds
+Region 82 Avg IOU: 0.910743, Class: 0.997452, Obj: 0.949174, No Obj: 0.005384, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.797581, Class: 0.970803, Obj: 0.751535, No Obj: 0.005490, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000176, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45086: 0.274174, 0.496885 avg, 0.001000 rate, 0.232603 seconds, 180344 images
+Loaded: 0.000430 seconds
+Region 82 Avg IOU: 0.757688, Class: 0.984447, Obj: 0.609557, No Obj: 0.005468, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.814469, Class: 0.983827, Obj: 0.489454, No Obj: 0.002422, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: 0.813541, Class: 0.988600, Obj: 0.548281, No Obj: 0.000884, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 106 Avg IOU: 0.739946, Class: 0.824684, Obj: 0.786944, No Obj: 0.000057, .5R: 1.000000, .75R: 0.000000,  count: 1
+45087: 0.436747, 0.490871 avg, 0.001000 rate, 0.231674 seconds, 180348 images
+Loaded: 0.000426 seconds
+Region 82 Avg IOU: 0.929853, Class: 0.972940, Obj: 0.996650, No Obj: 0.000867, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.854502, Class: 0.998622, Obj: 0.736422, No Obj: 0.000082, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.778532, Class: 0.995871, Obj: 0.891519, No Obj: 0.005977, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.769255, Class: 0.999407, Obj: 0.941783, No Obj: 0.000296, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45088: 0.160392, 0.457823 avg, 0.001000 rate, 0.230683 seconds, 180352 images
+Loaded: 0.000040 seconds
+Region 82 Avg IOU: 0.760779, Class: 0.970290, Obj: 0.942655, No Obj: 0.003735, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.776550, Class: 0.996009, Obj: 0.637081, No Obj: 0.000250, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.774043, Class: 0.982153, Obj: 0.984865, No Obj: 0.002651, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45089: 0.236978, 0.435739 avg, 0.001000 rate, 0.231356 seconds, 180356 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.826360, Class: 0.998118, Obj: 0.610707, No Obj: 0.004660, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: 0.758512, Class: 0.996155, Obj: 0.629397, No Obj: 0.000622, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.798989, Class: 0.999938, Obj: 0.952325, No Obj: 0.004696, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45090: 0.425746, 0.434739 avg, 0.001000 rate, 0.231323 seconds, 180360 images
+Resizing
+448
+Loaded: 0.000046 seconds
+Region 82 Avg IOU: 0.812276, Class: 0.998760, Obj: 0.739822, No Obj: 0.003584, .5R: 1.000000, .75R: 1.000000,  count: 2
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.796263, Class: 0.991654, Obj: 0.964830, No Obj: 0.004552, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.653694, Class: 0.999863, Obj: 0.983472, No Obj: 0.000404, .5R: 1.000000, .75R: 0.000000,  count: 1
+Region 106 Avg IOU: 0.661076, Class: 0.994188, Obj: 0.026063, No Obj: 0.000047, .5R: 1.000000, .75R: 0.000000,  count: 1
+45091: 0.462404, 0.437506 avg, 0.001000 rate, 0.163515 seconds, 180364 images
+Loaded: 0.000038 seconds
+Region 82 Avg IOU: 0.743933, Class: 0.996955, Obj: 0.821244, No Obj: 0.004560, .5R: 1.000000, .75R: 0.500000,  count: 4
+Region 94 Avg IOU: 0.765047, Class: 0.987891, Obj: 0.561888, No Obj: 0.002115, .5R: 1.000000, .75R: 0.444444,  count: 9
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000026, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.833013, Class: 0.996589, Obj: 0.802650, No Obj: 0.004892, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.819636, Class: 0.993849, Obj: 0.474516, No Obj: 0.000185, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+45092: 0.748744, 0.468630 avg, 0.001000 rate, 0.233919 seconds, 180368 images
+Loaded: 0.000042 seconds
+Region 82 Avg IOU: 0.797007, Class: 0.998265, Obj: 0.754986, No Obj: 0.009356, .5R: 1.000000, .75R: 0.666667,  count: 6
+Region 94 Avg IOU: 0.781686, Class: 0.998815, Obj: 0.824105, No Obj: 0.000398, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 82 Avg IOU: 0.748808, Class: 0.987857, Obj: 0.578621, No Obj: 0.004476, .5R: 1.000000, .75R: 0.750000,  count: 4
+Region 94 Avg IOU: 0.718565, Class: 0.993735, Obj: 0.421165, No Obj: 0.000337, .5R: 1.000000, .75R: 0.000000,  count: 2
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45093: 0.859502, 0.507717 avg, 0.001000 rate, 0.233125 seconds, 180372 images
+Loaded: 0.000041 seconds
+Region 82 Avg IOU: 0.768090, Class: 0.890997, Obj: 0.802655, No Obj: 0.008334, .5R: 1.000000, .75R: 0.625000,  count: 8
+Region 94 Avg IOU: 0.890519, Class: 0.978785, Obj: 0.638093, No Obj: 0.000623, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 106 Avg IOU: 0.784821, Class: 0.991700, Obj: 0.343659, No Obj: 0.000080, .5R: 1.000000, .75R: 0.666667,  count: 3
+Region 82 Avg IOU: 0.911557, Class: 0.998918, Obj: 0.754166, No Obj: 0.005733, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: 0.848092, Class: 0.989268, Obj: 0.161863, No Obj: 0.000073, .5R: 1.000000, .75R: 1.000000,  count: 2
+45094: 0.871605, 0.544106 avg, 0.001000 rate, 0.234941 seconds, 180376 images
+Loaded: 0.000039 seconds
+Region 82 Avg IOU: 0.744050, Class: 0.998515, Obj: 0.787350, No Obj: 0.004797, .5R: 1.000000, .75R: 0.333333,  count: 3
+Region 94 Avg IOU: 0.765324, Class: 0.996981, Obj: 0.542334, No Obj: 0.002478, .5R: 1.000000, .75R: 0.666667,  count: 9
+Region 106 Avg IOU: 0.775490, Class: 0.989868, Obj: 0.428547, No Obj: 0.000028, .5R: 1.000000, .75R: 1.000000,  count: 1
+Region 82 Avg IOU: 0.753614, Class: 0.998352, Obj: 0.771839, No Obj: 0.003980, .5R: 1.000000, .75R: 0.500000,  count: 2
+Region 94 Avg IOU: 0.691840, Class: 0.978521, Obj: 0.490793, No Obj: 0.000753, .5R: 1.000000, .75R: 0.000000,  count: 3
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+45095: 0.982155, 0.587911 avg, 0.001000 rate, 0.234319 seconds, 180380 images
+Loaded: 0.000038 seconds
+Region 82 Avg IOU: 0.858181, Class: 0.999250, Obj: 0.884139, No Obj: 0.006257, .5R: 1.000000, .75R: 1.000000,  count: 3
+Region 94 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000001, .5R: -nan, .75R: -nan,  count: 0
+Region 106 Avg IOU: -nan, Class: -nan, Obj: -nan, No Obj: 0.000000, .5R: -nan, .75R: -nan,  count: 0
+^C
+
+# jcq @ jcq-linux in /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest on git:master x [13:44:56] C:130
+$
