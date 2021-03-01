@@ -92,3 +92,62 @@ ${CFG_DIR}/yolov3-tiny.conv.15 15
  /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/data/voc.data  \
 ${CFG_DIR}/yolov3-tiny-3a.cfg  \
 ${CFG_DIR}/yolov3-tiny.conv.15
+
+
+# 2.3、测试图像
+
+./darknet detector  test \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/data/voc.data  \
+${CFG_DIR}/yolov3-tiny-3a.cfg  \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/Anchors/Anchors-3/yolov3-tiny-3a_60000.weights \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/data/dog.jpg  -thresh 0.55
+
+> ： 测试结果
+Loading weights from /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/Anchors/Anchors-3/yolov3-tiny-3a_60000.weights...Done!
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/data/dog.jpg: Predicted in 0.003226 seconds.
+car: 92%
+
+
+
+
+
+
+
+# 3 . Anchors = 9
+
+
+### 3.1 、生成文件
+
+./darknet partial  \
+${CFG_DIR}/yolov3-tiny-9a.cfg \
+${WEIGHTS_DIR}/yolov3-tiny.weights \
+${CFG_DIR}/yolov3-tiny.conv.15 15
+
+
+
+./darknet detector train \
+ /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/data/voc.data  \
+${CFG_DIR}/yolov3-tiny-9a.cfg  \
+${CFG_DIR}/yolov3-tiny.conv.15
+
+
+./darknet detector train \
+ /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/data/voc.data  \
+${CFG_DIR}/yolov3-tiny-9a.cfg  \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/Anchors/Anchors-9/yolov3-tiny-9.backup
+
+
+
+
+# 3.2、测试图像
+
+./darknet detector  test \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/data/voc.data  \
+${CFG_DIR}/yolov3-tiny-9a.cfg  \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/Anchors/Anchors-9/yolov3-tiny-9a_20000.weights \
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/data/dog.jpg  -thresh 0.55
+
+> ： 测试结果
+Loading weights from /media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/YOLOv3-mirc-target/backup/Anchors/Anchors-3/yolov3-tiny-3a_60000.weights...Done!
+/media/jcq/Soft/Pytorch/YOLO/Yolo-Fastest/data/dog.jpg: Predicted in 0.003226 seconds.
+car: 92%
