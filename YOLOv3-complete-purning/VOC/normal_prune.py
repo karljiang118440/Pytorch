@@ -12,8 +12,12 @@ import os
 
 
 class opt():
-    model_def = "cfg/yolov3-hand.cfg"
-    data_config = "cfg/oxfordhand.data"
+    # model_def = "cfg/yolov3-hand.cfg"
+    # data_config = "cfg/oxfordhand.data"
+    # model = 'weights/last.pt'
+
+    model_def = "cfg/yolov3-voc.cfg"
+    data_config = "data/voc.data"
     model = 'weights/last.pt'
 
 #指定GPU
