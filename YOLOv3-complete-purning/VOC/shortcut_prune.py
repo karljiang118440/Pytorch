@@ -13,8 +13,8 @@ import os
 #short-cut剪枝
 
 class opt():
-    model_def = "cfg/yolov3-hand.cfg"
-    data_config = "data/oxfordhand.data"
+    model_def = "cfg/yolov3-voc.cfg"
+    data_config = "data/voc.data"
     model = 'weights/last.pt'
 
 
@@ -358,7 +358,7 @@ if __name__ == '__main__':
     pruned_cfg_file = write_cfg(pruned_cfg_name, [model.hyperparams.copy()] + compact_module_defs)
     print(f'Config file has been saved: {pruned_cfg_file}')
 
-    compact_model_name = 'weights/yolov3_hand_shortcut_pruning_'+str(percent)+'percent.weights'
+    compact_model_name = 'weights/yolov3_voc_shortcut_pruning_'+str(percent)+'percent.weights'
 
     save_weights(compact_model, path=compact_model_name)
     print(f'Compact model has been saved: {compact_model_name}')
